@@ -46,7 +46,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'project1.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="{{ 'pilot.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>Pilot: Short-Term Memory</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
@@ -54,8 +54,16 @@ layout: default
 			</ul>
 		</article>
 		<article>
+			<a href="{{ 'project1.html' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<h3>ManyPrimates 1: Short-Term Memory continued</h3>
+			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<ul class="actions">
+				<li><a href="{{ 'project1.html' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
+		<article>
 			<a href="{{ 'project2.html' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Project 2</h3>
+			<h3>ManyPrimates 2</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
 				<li><a href="{{ 'project2.html' | absolute_url }}" class="button">Learn more</a></li>

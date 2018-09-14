@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pilot: Short-Term Memory"
+title: "ManyPrimates 1: Short-Term Memory continued"
 image: assets/images/pic11.jpg
 ---
 

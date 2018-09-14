@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "ManyPrimates 2"
-image: assets/images/pic14.jpg
+title: "Pilot: Short-Term Memory"
+image: assets/images/pic15.jpg
 ---
 
 ## More info coming soon!
