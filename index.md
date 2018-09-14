@@ -5,35 +5,35 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Erat lacinia</h2>
+		<h2>Get involved</h2>
 	</header>
 	<div class="features">
 		<article>
-			<span class="icon fa-diamond"></span>
+			<span class="icon fa-bullhorn"></span>
 			<div class="content">
-				<h3>Portitor ullamcorper</h3>
+				<h3>News</h3>
+				<p><strong>Aug 2018</strong>: The project officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya!</p>
+			</div>
+		</article>
+		<article>
+			<span class="icon fa-pencil"></span>
+			<div class="content">
+				<h3><a href="{{ 'authorship.html' | absolute_url }}">Authorship Guidelines</a></h3>
+				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			</div>
+		</article>
+		<article>
+			<span class="icon fa-balance-scale"></span>
+			<div class="content">
+				<h3><a href="{{ 'ethics.html' | absolute_url }}">Ethics Guidelines</a></h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-				<h3>Sapien veroeros</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			</div>
-		</article>
-		<article>
-			<span class="icon fa-rocket"></span>
-			<div class="content">
-				<h3>Quam lorem ipsum</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			</div>
-		</article>
-		<article>
-			<span class="icon fa-signal"></span>
-			<div class="content">
-				<h3>Sed magna finibus</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3><a href="mailto:{{ site.email }}" target = "_blank">Contact</a></h3>
+				<p>We encourage everyone who is interested in primate cognition to get involved. Access to primates is <strong>NOT</strong> a prerequisite.</p>
 			</div>
 		</article>
 	</div>
@@ -42,39 +42,23 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Ipsum sed dolor</h2>
+		<h2>Projects</h2>
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-			<h3>Interdum aenean</h3>
+			<a href="{{ 'project1.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<h3>Pilot: Short-Term Memory</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ 'project1.html' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Nulla amet dolore</h3>
+			<a href="{{ 'project2.html' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<h3>Project 2</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-			<h3>Tempus ullamcorper</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
-			<h3>Sed etiam facilis</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ 'project2.html' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
 	</div>
