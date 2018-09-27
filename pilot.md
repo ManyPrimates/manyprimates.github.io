@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pilot: Short-Term Memory"
+title: "Pilot"
 image: assets/images/pic15.jpg
 ---
 
