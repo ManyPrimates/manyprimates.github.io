@@ -25,7 +25,7 @@ We varied the length of the delay between hiding and retrieval: In the short del
 
 The projects and the results from the pilot study were were first presented to a wider audience in late August 2018 at he 27th International Primatological Society Congress in Nairobi, Kenya. In total, 187 primates from 12 species and 13 sites participated in the  study. The map below shows the participating institutions.
 
-![](assets/images/pilot_sites.png){:class="img-responsive"}
+<div style="text-align:center"><img src ="assets/images/pilot_sites.png" /></div>
 
 The graph below gives an overview of the results from the pilot study. For each species, it shows the performance in the three delay conditions. Transparent dots represent aggregated data for each individual by condition. Solid dots are species means for a given condition. Error bars show 95% confidence intervals (CI). The dotted line represents level of correct choice expected by chance. As a rough rule for inference, performance is significantly different from chance if the CI does not overlap with the chance line.Species are grouped by phylogeny, with lemurs on top, followed by old world monkeys, apes and new world monkeys.
 
