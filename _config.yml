@@ -2,10 +2,16 @@
 title: ManyPrimates
 subtitle: 
 email: manyprimates@gmail.com
-description: ManyPrimates | Establishing a Culture of Collaboration in Primate Cognition Research
+description: Establishing a Culture of Collaboration in Primate Cognition Research
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://manyprimates.github.io" # the base hostname & protocol for your site
 author: ManyPrimates
+lang: en_US
+
+# Social
+twitter:
+  username: ManyPrimates
+  card: summary
 
 # Social settings
 github_url: https://github.com/ManyPrimates
@@ -15,3 +21,7 @@ osf_url: https://osf.io/tr6q3/
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
