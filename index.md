@@ -12,7 +12,7 @@ layout: default
 			<span class="icon fa-bullhorn"></span>
 			<div class="content">
 				<h3>News</h3>
-				<p><strong>Aug 2018</strong>: The project officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya!</p>
+				<p><strong>Aug 2018</strong>: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya!</p>
 			</div>
 		</article>
 		<article>
