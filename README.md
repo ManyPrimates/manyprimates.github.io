@@ -12,6 +12,7 @@
 - Have a clone of the github repo on your local machine
 - Install Jekyll: `gem install bundler jekyll`
     - If that gives you any errors, google them... or check [here](https://jekyllrb.com/docs/installation/)
+- Install jekyll-seo-tag: `gem install bundler jekyll-seo-tag`
 - `cd` into the git repo for the website
 - Build local Jekyll site `bundle exec jekyll serve`
 - Open browser and open `http://localhost:4000`

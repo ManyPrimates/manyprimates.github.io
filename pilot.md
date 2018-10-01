@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Pilot"
-image: assets/images/pic15.jpg
+image: assets/images/MP pilot_mosaic.jpg
 ---
 
 ## Establishing an infrastructure for collaboration
