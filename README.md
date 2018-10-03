@@ -2,6 +2,7 @@
 
 ## Making changes to the content
 
+- Fetch any upstream changes to your local repo (i.e., make sure you have the latest version)
 - Edit the Markdown `.md` files. When you push changes to the remote repo, github will build the site (typically within a few minutes).
 - Put images in the `assets/images` folder
 - Use relative urls whenever possible, e.g. `pilot.html` instead of `https://manyprimates.github.io/pilot.html`
@@ -14,8 +15,8 @@
     - If that gives you any errors, google them... or check [here](https://jekyllrb.com/docs/installation/)
 - Install jekyll-seo-tag: `gem install bundler jekyll-seo-tag`
 - `cd` into the git repo for the website
-- Build local Jekyll site `bundle exec jekyll serve`
-- Open browser and open `http://localhost:4000`
+- Build local Jekyll site: `bundle exec jekyll serve`
+- Open browser and go to: `http://localhost:4000`
 - You should see any changes you save on your local `.md` files (refresh)
 - Push your changes when you're happy with the preview!
 
