@@ -48,7 +48,7 @@ layout: default
 		<article>
 			<a href="{{ 'pilot.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>Pilot</h3>
-			<p>As a proof of concept, this study was a first step towards building an infrastructure that facilitates large-scale collaboration in primate cognition research. In this pilot study, we conducted a short-term memory task with 187 primates from 12 species and 13 sites. </p>
+			<p>As a proof of concept, this study was a first step towards building an infrastructure that facilitates large-scale collaboration in primate cognition research. In this pilot study, we conducted a short-term memory task with 187 primates from 12 species and 11 sites. </p>
 			<ul class="actions">
 				<li><a href="{{ 'pilot.html' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
