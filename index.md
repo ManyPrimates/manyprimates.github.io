@@ -12,7 +12,7 @@ layout: default
 			<span class="icon fa-bullhorn"></span>
 			<div class="content">
 				<h3>News</h3>
-				<p><strong>Oct 2018</strong>: On Saturday 27th, Lydia Hopper will present a poster on the ManyPrimates pilot study at the Midwest Primate Interest Group meeting (MPIG) at Indiana University Bloomington!</p>
+				<p><strong>Oct 2018</strong>: On Saturday 27th, Lydia Hopper presented a poster on the ManyPrimates pilot study at the Midwest Primate Interest Group meeting (MPIG) at Indiana University Bloomington!</p>
 			</div>
 		</article>
 		<article>
