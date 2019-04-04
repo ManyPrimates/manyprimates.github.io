@@ -12,7 +12,7 @@ layout: default
 			<span class="icon fa-bullhorn"></span>
 			<div class="content">
 				<h3>News</h3>
-				<p><strong>Feb 2019</strong>: On Thursday 14th, Claudia Fichtel will present a poster on the ManyPrimates pilot study at the Conference of the German Primatological Society (GfP) at the German Primate Center, Göttingen!</p>
+				<p><strong>May 2019</strong>: Elizabeth Warren and Drew Altschul will present a talk on the ManyPrimates pilot study at the Scottish Primate Research Group annual meeting!</p>
 			</div>
 		</article>
 		<article>
@@ -48,7 +48,7 @@ layout: default
 		<article>
 			<a href="{{ 'pilot.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>Pilot</h3>
-			<p>As a proof of concept, this study was a first step towards building an infrastructure that facilitates large-scale collaboration in primate cognition research. In this pilot study, we conducted a short-term memory task with 187 primates from 12 species and 11 sites. </p>
+			<p>As a proof of concept, this study was a first step towards building an infrastructure that facilitates large-scale collaboration in primate cognition research. In this pilot study, we conducted a short-term memory task with 176 primates from 12 species and 11 sites. </p>
 			<ul class="actions">
 				<li><a href="{{ 'pilot.html' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
