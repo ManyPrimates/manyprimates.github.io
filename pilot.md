@@ -23,7 +23,7 @@ We varied the length of the delay between hiding and retrieval: In the short del
 
 ## Some preliminary results
 
-The projects and the results from the pilot study were first presented to a wider audience in late August 2018 at the 27th International Primatological Society Congress in Nairobi, Kenya. In total, 187 primates from 12 species and 11 sites participated in the study. The map below shows the participating institutions.
+The projects and the results from the pilot study were first presented to a wider audience in late August 2018 at the 27th International Primatological Society Congress in Nairobi, Kenya. In total, 176 primates from 12 species and 11 sites participated in the study. The map below shows the participating institutions.
 
 <div style="text-align:center"><img class="image" src ="assets/images/pilot_sites.png" /></div>
 
