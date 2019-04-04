@@ -26,7 +26,7 @@ layout: default
 			<span class="icon fa-balance-scale"></span>
 			<div class="content">
 				<h3><a href="{{ 'ethics.html' | absolute_url }}">Ethics Guidelines</a></h3>
-				<p>We are currently developing ethical guidelines for cognitive research with captive primates in general as well as for specific concerns that sanctuaries may have about the use of primates in research.</p>
+				<p>We are developed ethical guidelines for cognitive research with captive primates in general as well as for specific concerns that sanctuaries may have about the use of primates in research.</p>
 			</div>
 		</article>
 		<article>
