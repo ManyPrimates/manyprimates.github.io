@@ -11,8 +11,8 @@ layout: default
 		<article>
 			<span class="icon fa-bullhorn"></span>
 			<div class="content">
-				<h3>News</h3>
-				<p><strong>May 2019</strong>: Elizabeth Warren and Drew Altschul will present a talk on the ManyPrimates pilot study at the Scottish Primate Research Group annual meeting!</p>
+				<h3><a href="{{ 'news.html' | absolute_url }}">News</a></h3>
+				<p>Catch us at the these conferences (and other news)!</p>
 			</div>
 		</article>
 		<article>
