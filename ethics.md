@@ -4,7 +4,6 @@ title: Ethics Guidelines
 image: assets/images/pic13.jpg
 ---
 
-<<<<<<< HEAD
 Our ethics task force developed minimal ethical guidelines for procedures and participation in ManyPrimates studies. If you have any questions or comments, please [get in touch](mailto:{{ site.email }}).
 
 The following points must apply to all procedures and contributions in ManyPrimates studies:
