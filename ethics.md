@@ -4,7 +4,9 @@ title: Ethics Guidelines
 image: assets/images/pic13.jpg
 ---
 
-Our task force led by Amanda Seed developed ethical guidelines We developed ethical guidelines for procedures and participation in ManyPrimates studies. If you have any questions or comments, please [get in touch](mailto:{{ site.email }}).
+Our ethics task force developed minimal ethical guidelines for procedures and participation in ManyPrimates studies. If you have any questions or comments, please [get in touch](mailto:{{ site.email }}).
+
+The following points must apply to all procedures and contributions in ManyPrimates studies:
 
 - No study conducted as part of ManyPrimates will use any invasive methods.
 - All participating researchers answer to an ethics committee which approves the study and is named in the respective publication. 
@@ -19,6 +21,6 @@ In addition, contributors confirm that the following points apply:
 - In captive settings, lifetime care is provided for primates at the facility, unless animals are rehabilitated to the wild or transferred to another facility.
 - Participation in ManyPrimates studies at the facility is not elicited by depriving animals of food and/or water.
 
-Some ManyPrimates projects have additional ethical regulations. In this case, ethical questions about participations are handled by a dedicated ethics committee. Ethics committees always include representatives for the different data collection settings (field site, sanctuary, university, zoo) but may include different people for different studies.   
+Some ManyPrimates studies have additional ethical regulations. In this case, ethical questions about participations are handled by a dedicated ethics committee. Ethics committees always include representatives for the different data collection settings (field site, sanctuary, university, zoo) but may include different people for different studies.   
 
 *April 4, 2019*
