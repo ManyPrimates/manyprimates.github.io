@@ -4,7 +4,7 @@ title: Ethics Guidelines
 image: assets/images/pic13.jpg
 ---
 
-Our task force led by Amanda Seed developed ethical guidelines for cognitive research with captive primates in general as well as for specific concerns that sanctuaries may have about the use of primates in research. If you have any questions or comments, please [get in touch](mailto:{{ site.email }}).
+Our task force led by Amanda Seed developed ethical guidelines We developed ethical guidelines for procedures and participation in ManyPrimates studies. If you have any questions or comments, please [get in touch](mailto:{{ site.email }}).
 
 - No study conducted as part of ManyPrimates will use any invasive methods.
 - All participating researchers answer to an ethics committee which approves the study and is named in the respective publication. 
