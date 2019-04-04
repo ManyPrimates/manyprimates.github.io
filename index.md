@@ -12,7 +12,7 @@ layout: default
 			<span class="icon fa-bullhorn"></span>
 			<div class="content">
 				<h3><a href="{{ 'news.html' | absolute_url }}">News</a></h3>
-				<p>Catch us at the these conferences (and other news)!</p>
+				<p>Catch us at these conferences (and other news)!</p>
 			</div>
 		</article>
 		<article>
