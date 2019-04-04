@@ -20,3 +20,5 @@ In addition, contributors confirm that the following points apply:
 - Participation in ManyPrimates studies at the facility is not elicited by depriving animals of food and/or water.
 
 Some ManyPrimates projects have additional ethical regulations. In this case, ethical questions about participations are handled by a dedicated ethics committee. Ethics committees always include representatives for the different data collection settings (field site, sanctuary, university, zoo) but may include different people for different studies.   
+
+*April 4, 2019*
