@@ -19,7 +19,7 @@ layout: default
 			<span class="icon fa-pencil"></span>
 			<div class="content">
 				<h3><a href="{{ 'authorship.html' | absolute_url }}">Authorship Guidelines</a></h3>
-				<p>As a large scientific collaboration that aims to be inclusive, we are currently developing guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects.</p>
+				<p>As a large scientific collaboration that aims to be inclusive, we developed guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects.</p>
 			</div>
 		</article>
 		<article>
