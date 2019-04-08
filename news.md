@@ -6,13 +6,15 @@ image: assets/images/pic15.jpg
 
 ## General News
 
-**Mar 2019**: We submitted our first paper for publication!
+**Mar 2019**: We submitted our first paper for publication! Find the [PsyArXiv preprint here.](https://psyarxiv.com/3xu7q/)
 
 **Aug 2018**: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya!
 
 ***
 
 ## Upcoming and Past Presentations
+
+**Sep 2019** (*in prep*): Marine Joly is planning to present at the meeting of the [European Federation of Primatology & Primate Society of Great Britain (EFP/PSGB)](https://www.efp-psgb2019.com/) in Oxford, UK!
 
 **Aug 2019** (*submitted*): Julia Watzek is planning to present a talk at the meeting of the [American Society of Primatologists(ASP)](https://asp.org/meetings/conference.cfm) in Madison, WI, USA!
 
