@@ -14,7 +14,7 @@ image: assets/images/pic15.jpg
 
 ## Upcoming and Past Presentations
 
-**Aug 2019** (*submitted*): Christoph Völter is planning to present a talk at the [Association for the Study of Animal Behaviour summer conference](https://www.uni-konstanz.de/asab-summer-2019/) in Madison, WI, USA!
+**Aug 2019** (*submitted*): Christoph Völter is planning to present a talk at the [Association for the Study of Animal Behaviour summer conference](https://www.uni-konstanz.de/asab-summer-2019/) in Konstanz, Germany!
 
 **Aug 2019**: Julia Watzek will present a talk at the meeting of the [American Society of Primatologists (ASP)](https://asp.org/meetings/conference.cfm) in Madison, WI, USA!
 
