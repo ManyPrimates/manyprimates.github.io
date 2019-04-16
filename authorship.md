@@ -4,7 +4,7 @@ title: Authorship Guidelines
 image: assets/images/pic12.jpg
 ---
 
-As a large scientific collaboration that aims to be inclusive, we developed guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects. Our task force came up with the following guidelines based on the CRediT taxonomy. If you have any questions or comments, please [get in touch](mailto:{{ site.email }}).
+As a large scientific collaboration that aims to be inclusive, we developed guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects. Our task force led by Drew Altschul came up with the following guidelines based on the CRediT taxonomy. If you have any questions or comments, please [get in touch](mailto:{{ site.email }}).
 
 Researchers who fulfill one or more of the following criteria are granted authorship on the publications that correspond to the projects they contributed to:
 
