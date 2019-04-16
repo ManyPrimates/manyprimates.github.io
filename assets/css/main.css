@@ -2849,7 +2849,6 @@
 					transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 					border-bottom: 0;
 					border-radius: 0.375em;
-					display: inline-block;
 					font-size: 0.8em;
 					font-weight: 600;
 					height: 2em;
@@ -3926,18 +3925,37 @@
 		}
 
 			#banner .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: scale-down;
+				-webkit-object-fit: scale-down;
+				-ms-object-fit: scale-down;
+				object-fit: scale-down;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
 				object-position: center;
-				width: 50%;
+				width: 100%;
+				max-width: 25vw;
 			}
 
-		@media screen and (orientation: portrait) {
+		@media screen and (min-width: 1681px) {
+			#banner .image img {
+				max-width: 420px;
+			}
+		}
+
+		@media screen and (max-width: 1280px) {
+			#banner .image img {
+				max-width: 30vw;
+			}
+		}
+
+		@media screen and (max-width: 980px) {
+			#banner .image img {
+				max-width: 35vw;
+			}
+		}
+
+		@media screen and (max-width: 768px) {
 
 			#banner {
 				-moz-flex-direction: column-reverse;
@@ -3971,21 +3989,21 @@
 					-webkit-flex-shrink: 0;
 					-ms-flex-shrink: 0;
 					flex-shrink: 0;
-					margin: 0 0 4em 0;
-					height: 25em;
+					margin: 0 0 2em 0;
 					max-height: 50vh;
-					min-height: 18em;
 					width: 100%;
 				}
 
+					#banner .image img {
+						max-width: 45vw;
+					}
+
 		}
 
-		@media screen and (orientation: portrait) and (max-width: 480px) {
-
-			#banner .image {
-				max-height: 35vh;
+		@media screen and (max-width: 480px) {
+			#banner .image img {
+				max-width: 50vw;
 			}
-
 		}
 
 /* Footer */
