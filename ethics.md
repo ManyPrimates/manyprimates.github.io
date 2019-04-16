@@ -23,4 +23,4 @@ In addition, contributors confirm that the following points apply:
 
 Some ManyPrimates studies have additional ethical regulations. In this case, ethical questions about participations are handled by a dedicated ethics committee. Ethics committees always include representatives for the different data collection settings (field site, sanctuary, university, zoo) but may include different people for different studies.   
 
-*April 4, 2019*
+*April 16, 2019*

@@ -4,7 +4,7 @@ title: Authorship Guidelines
 image: assets/images/pic12.jpg
 ---
 
-As a large scientific collaboration that aims to be inclusive, we developed guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects. Our task force led by Drew Altschul came up with the following guidelines based on the CRediT taxonomy. If you have any questions or comments, please [get in touch](mailto:{{ site.email }}).
+As a large scientific collaboration that aims to be inclusive, we developed guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects. Our task force came up with the following guidelines based on the CRediT taxonomy. If you have any questions or comments, please [get in touch](mailto:{{ site.email }}).
 
 Researchers who fulfill one or more of the following criteria are granted authorship on the publications that correspond to the projects they contributed to:
 
@@ -89,4 +89,4 @@ Researchers who fulfill one or more of the following criteria are granted author
 
 All ManyPrimates papers will be published with “Many Primates” as the first author. Individual authors are listed in the authorship by-line after “Many Primates”. Authorship is claimed by putting one’s name down in the document that is used to write up each project. The type of contribution has to be specified in the author contribution section of each paper. In case one thinks that another person’s claim to authorship is unjustified, they can appeal to the authorship committee for that project (comprised of five volunteers), which will verify the claimed contribution and withdraw authorship if unrightfully claimed.
 
-*April 4, 2019*
+*April 16, 2019*
