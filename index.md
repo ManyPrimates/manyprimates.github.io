@@ -19,14 +19,14 @@ layout: default
 			<span class="icon fa-pencil"></span>
 			<div class="content">
 				<h3><a href="{{ 'authorship.html' | absolute_url }}">Authorship Guidelines</a></h3>
-				<p>As a large scientific collaboration that aims to be inclusive, we are currently developing guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects.</p>
+				<p>As a large scientific collaboration that aims to be inclusive, we developed guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-balance-scale"></span>
 			<div class="content">
 				<h3><a href="{{ 'ethics.html' | absolute_url }}">Ethics Guidelines</a></h3>
-				<p>We are currently developing ethical guidelines for cognitive research with captive primates in general as well as for specific concerns that sanctuaries may have about the use of primates in research.</p>
+				<p>We developed ethical guidelines for procedures and participation in ManyPrimates studies.</p>
 			</div>
 		</article>
 		<article>
