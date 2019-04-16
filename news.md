@@ -14,7 +14,7 @@ image: assets/images/pic15.jpg
 
 ## Upcoming and Past Presentations
 
-**Sep 2019** (*in prep*): Marine Joly is planning to present at the meeting of the [European Federation of Primatology & Primate Society of Great Britain (EFP/PSGB)](https://www.efp-psgb2019.com/) in Oxford, UK!
+**Aug 2019** (*submitted*): Christoph Völter is planning to present a talk at the [Association for the Study of Animal Behaviour summer conference](https://www.uni-konstanz.de/asab-summer-2019/) in Madison, WI, USA!
 
 **Aug 2019**: Julia Watzek will present a talk at the meeting of the [American Society of Primatologists (ASP)](https://asp.org/meetings/conference.cfm) in Madison, WI, USA!
 
