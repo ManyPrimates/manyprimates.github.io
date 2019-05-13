@@ -8,25 +8,25 @@ image: assets/images/pic15.jpg
 
 **Mar 2019**: We submitted our first paper for publication! Find the [PsyArXiv preprint here.](https://psyarxiv.com/3xu7q/)
 
-**Aug 2018**: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya!
+**Aug 23, 2018**: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya with a talk by Manuel Bohn! [[&rarr; Slides]](assets/conferences/IPS2018_Bohn.pdf)
 
 ***
 
 ## Upcoming and Past Presentations
 
-**Sep 2019** (*submitted*): Marine Joly is planning to present at the meeting of the [European Federation of Primatology & Primate Society of Great Britain (EFP/PSGB)](https://www.efp-psgb2019.com/) in Oxford, UK!
+**Sep 2019** (*submitted*): Marine Joly is planning to present a talk at the meeting of the [European Federation of Primatology & Primate Society of Great Britain (EFP/PSGB)](https://www.efp-psgb2019.com/) in Oxford, UK!
 
-**Aug 2019** (*submitted*): Christoph Völter is planning to present a talk at the [Association for the Study of Animal Behaviour summer conference](https://www.uni-konstanz.de/asab-summer-2019/) in Konstanz, Germany!
+**Aug 2019** (*submitted*): Christoph Völter is planning to present a talk at the [Association for the Study of Animal Behaviour (ASAB) summer conference](https://www.uni-konstanz.de/asab-summer-2019/) in Konstanz, Germany!
 
 **Aug 2019**: Julia Watzek will present a talk at the meeting of the [American Society of Primatologists (ASP)](https://asp.org/meetings/conference.cfm) in Madison, WI, USA!
 
 **Jul 2019** (*submitted*): Lydia Hopper is planning to present a poster at the Annual Conference of the [Animal Behavior Society (ABS)](http://www.animalbehaviorsociety.org/2019/) in Chicago, IL, USA!
 
-**May 2019**: Elizabeth Warren and Drew Altschul will present a talk at the Scottish Primate Research Group annual meeting!
+**May 11, 2019**: Elizabeth Warren and Drew Altschul presented a talk at the Scottish Primate Research Group annual meeting!
 
-**Feb 2019**: On Thursday 14th, Claudia Fichtel presented a poster at the Conference of the [German Primatological Society (GfP)](http://www.gfp2019.dpz.eu) in Göttingen, Germany!
+**Feb 14, 2019**: Claudia Fichtel presented a poster at the Conference of the [German Primatological Society (GfP)](https://www.gf-primatologie.de/english/meetings) in Göttingen, Germany! 
 
-**Oct 2018**: On Saturday 27th, Lydia Hopper presented a poster at the [Midwest Primate Interest Group meeting (MPIG)](https://mpig2018.wordpress.com/) in Bloomington, IN, USA!
+**Oct 27, 2018**: Lydia Hopper presented a poster at the [Midwest Primate Interest Group meeting (MPIG)](https://midwestprimates.org) in Bloomington, IN, USA! [[&rarr; Poster]](assets/conferences/MPIG2018_Hopper.pdf)
 
 ***
 
