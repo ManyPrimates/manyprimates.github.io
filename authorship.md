@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Authorship Guidelines
+permalink: /authorship/
 image: assets/images/pic12.jpg
 ---
 

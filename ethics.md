@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ethics Guidelines
+permalink: /ethics/
 image: assets/images/pic13.jpg
 ---
 

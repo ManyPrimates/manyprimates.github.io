@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ManyPrimates 2"
+permalink: /mp2/
 image: assets/images/pic14.jpg
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "News"
+permalink: /news/
 image: assets/images/pic15.jpg
 ---
 
@@ -8,7 +9,7 @@ image: assets/images/pic15.jpg
 
 **Mar 2019**: We submitted our first paper for publication! Find the [PsyArXiv preprint here.](https://psyarxiv.com/3xu7q/)
 
-**Aug 23, 2018**: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya with a talk by Manuel Bohn! [[&rarr; Slides]](assets/conferences/IPS2018_Bohn.pdf)
+**Aug 23, 2018**: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya with a talk by Manuel Bohn! [[&rarr; Slides]](/assets/conferences/IPS2018_Bohn.pdf)
 
 ***
 
@@ -26,7 +27,7 @@ image: assets/images/pic15.jpg
 
 **Feb 14, 2019**: Claudia Fichtel presented a poster at the Conference of the [German Primatological Society (GfP)](https://www.gf-primatologie.de/english/meetings) in Göttingen, Germany! 
 
-**Oct 27, 2018**: Lydia Hopper presented a poster at the [Midwest Primate Interest Group meeting (MPIG)](https://midwestprimates.org) in Bloomington, IN, USA! [[&rarr; Poster]](assets/conferences/MPIG2018_Hopper.pdf)
+**Oct 27, 2018**: Lydia Hopper presented a poster at the [Midwest Primate Interest Group meeting (MPIG)](https://midwestprimates.org) in Bloomington, IN, USA! [[&rarr; Poster]](/assets/conferences/MPIG2018_Hopper.pdf)
 
 ***
 
