@@ -9,7 +9,7 @@ image: assets/images/pic15.jpg
 
 **Mar 2019**: We submitted our first paper for publication! Find the [PsyArXiv preprint here.](https://psyarxiv.com/3xu7q/)
 
-**Aug 23, 2018**: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya with a talk by Manuel Bohn! [[&rarr; Slides]](/assets/conferences/IPS2018_Bohn.pdf)
+**Aug 23, 2018**: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya with a talk by Manuel Bohn! [[&rarr;&nbsp;Slides]](/assets/conferences/IPS2018_Bohn.pdf)
 
 ***
 
@@ -23,7 +23,7 @@ image: assets/images/pic15.jpg
 
 **Jul 2019** (*submitted*): Lydia Hopper is planning to present a poster at the Annual Conference of the [Animal Behavior Society (ABS)](http://www.animalbehaviorsociety.org/2019/) in Chicago, IL, USA!
 
-**May 11, 2019**: Elizabeth Warren and Drew Altschul presented a talk at the Scottish Primate Research Group annual meeting!
+**May 11, 2019**: Elizabeth Warren and Drew Altschul presented a talk at the Scottish Primate Research Group annual meeting! [[&rarr;&nbsp;Slides]](/assets/conferences/SPRG2019_Warren_Altschul.pdf)
 
 **Feb 14, 2019**: Claudia Fichtel presented a poster at the Conference of the [German Primatological Society (GfP)](https://www.gf-primatologie.de/english/meetings) in Göttingen, Germany! 
 
