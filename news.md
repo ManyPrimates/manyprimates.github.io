@@ -15,7 +15,7 @@ image: assets/images/pic15.jpg
 
 ## Upcoming and Past Presentations
 
-**Sep 2019** (*submitted*): Manuel Bohn is planning to present a talk at [Joint Conference of the Sections Developmental & Educational Psychology (paEpsy)](http://paepsy-meeting.de/) in Leipzig, Germany!
+**Sep 2019** (*submitted*): Manuel Bohn is planning to present a talk at the [Joint Conference of the Sections Developmental & Educational Psychology (paEpsy)](http://paepsy-meeting.de/) in Leipzig, Germany!
 
 **Sep 2019** (*submitted*): Marine Joly is planning to present a talk at the meeting of the [European Federation of Primatology & Primate Society of Great Britain (EFP/PSGB)](https://www.efp-psgb2019.com/) in Oxford, UK!
 
