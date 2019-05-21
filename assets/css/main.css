@@ -4149,7 +4149,7 @@
 }
 
 .mp1 .menu_title {color:#fff;
-    font-size: .9em; /* .9em */
+    font-size: 1.1em; /* .9em */
     background: #6f777d;
     margin: 0;
     padding: 0.5rem 0.75rem;
@@ -4167,7 +4167,7 @@
     padding: 0;
     width: 100%;
     list-style: none;
-    font-size: .75em
+    font-size: .9em
 }
 
 .mp1_menu a {
