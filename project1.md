@@ -2,7 +2,7 @@
 layout: page_sidebar
 title: "ManyPrimates 1: Short-Term Memory"
 permalink: /mp1/
-image: assets/images/pic11.jpg
+image: assets/images/MP pilot_mosaic.jpg
 ---
 
 <!-- from google doc as of 5/20/19 5.51pm -->
