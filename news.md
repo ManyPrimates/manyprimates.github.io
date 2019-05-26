@@ -7,6 +7,8 @@ image: assets/images/pic15.jpg
 
 ## General News
 
+**May 2019**: We are now collecting data for [ManyPrimates 1](/mp1)!
+
 **Mar 2019**: We submitted our first paper for publication! Find the [PsyArXiv preprint here.](https://psyarxiv.com/3xu7q/)
 
 **Aug 23, 2018**: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya with a talk by Manuel Bohn! [[&rarr;&nbsp;Slides]](/assets/conferences/IPS2018_Bohn.pdf)
