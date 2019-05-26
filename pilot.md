@@ -40,6 +40,6 @@ Looking at this graph, one can see a number of things. First of all, there is a 
 
 ## Next steps
 
-The pilot study was an important step towards the goal of establishing an enduring infrastructure for collaboration in primate cognition research. Even though the sample size and number of species we tested is quite substantial, it is still relatively small in order to make inferences about the phylogenetic development of short-term memory in primates. We therefore decided to continue collecting data for this study to reach a larger and more balanced sample. The pilot study lives on as [ManyPrimates1](/mp1 "ManyPrimates1"). 
+The pilot study was an important step towards the goal of establishing an enduring infrastructure for collaboration in primate cognition research. Even though the sample size and number of species we tested is quite substantial, it is still relatively small in order to make inferences about the phylogenetic development of short-term memory in primates. We therefore decided to continue collecting data for this study to reach a larger and more balanced sample. The pilot study lives on as [ManyPrimates 1](/mp1 "ManyPrimates 1"). 
 
 
