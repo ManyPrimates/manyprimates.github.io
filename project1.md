@@ -41,7 +41,7 @@ If your subjects have not participated in object choice studies before, [here](h
 
 ## 4. Code and upload the data 
 
-Please use the template and instructions included in your folder to code your data. *It’s really important that you only enter the kind of values that are in the template for each column.* This will make merging the (hopefully many) datasets much easier. If something is unclear, please get in touch with the coordination team. You can either enter your data directly into the Google Sheets version online or you can download the Excel version, enter your data offline, and upload the spreadsheet back into your folder when you’re done. 
+Please use the datasheet template and instructions included in your folder to code your data. *It’s really important that you only enter the kind of values that are in the template for each column.* This will make merging the (hopefully many) datasets much easier. If something is unclear, please get in touch with the coordination team. You can either enter your data directly into the Google Sheets version online or you can download the Excel version, enter your data offline, and upload the spreadsheet back into your folder when you’re done. 
 
 At the end of data collection, don’t forget to get interobserver reliability coding for at least 20% of trials. The reliability coder should be naive with respect to the hypotheses of this study. If you are unsure how to run such interobserver reliability or have trouble finding someone to do reliability coding, get in touch with the coordination team.
 
@@ -49,14 +49,14 @@ ManyPrimates is committed to open science. That is, all our procedures and analy
 
 ## 5. Contribute to analysis and writing
 
-We hope you also contribute to the analysis and writing and you may do so even if you have not contributed data to this project. If you want to be part of the analysis team, get in touch with the coordination team. If you want contribute to writing, please enter your name in our [write-up plan](https://docs.google.com/document/d/1x0FucBfr_BzTeYbEuPFHtsmTNlZRQGeFDJWkOxzlgPc/edit).
+We hope you also contribute to the analysis and writing and you may do so even if you have not contributed data to this project. If you want to be part of the analysis team, get in touch with the coordination team. If you want to contribute to writing, please enter your name in our [write-up plan](https://docs.google.com/document/d/1x0FucBfr_BzTeYbEuPFHtsmTNlZRQGeFDJWkOxzlgPc/edit).
 
 Here are some additional resources for the study: 
 
 - [Pilot paper](https://psyarxiv.com/3xu7q/)
 - [Pre-registration for procedure]()
 - Pre-registration for analysis (to come)
-- [Project repository on GitHub]()
+- [Project repository on GitHub](https://github.com/ManyPrimates/mp1_short_term_memory)
 
 Thank you for being one of **ManyPrimates**! 
 
