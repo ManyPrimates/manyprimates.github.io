@@ -9,7 +9,7 @@ image: assets/images/MP pilot_mosaic.jpg
 
 ## How to contribute?
 
-ManyPrimates is a platform for promoting large scale collaboration and open science practices in primate cognition research. In this project (MP1) we investigate short-term memory across the primate order. As such, it is a continuation of our [pilot study](/pilot "pilot study"). We hope to increase the number of species and individuals per species in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
+ManyPrimates is a platform for promoting large scale collaboration and open science practices in primate cognition research. In this project (MP1) we investigate short-term memory across the primate order. As such, it is a continuation of our [pilot study](/pilot "pilot study"). We hope to increase the number of species* and individuals per species in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
 
 <div class="box">
     <p><strong>We are currently collecting data for this project!<br/>
@@ -67,5 +67,12 @@ Thank you for being one of **ManyPrimates**!
 MP1 coordination team: Drew Altschul, Manuel Bohn, Lydia Hopper, Marine Joly, Christoph Völter, Julia Watzek  
 [{{ site.email }}](mailto:{{ site.email }})
 
+***
 
+\* We welcome data from any primate species, but we especially encourage people working with underrepresented species to contribute. For our current sample, this includes:
+
+- **prosimians**: in general, but non-lemurs especially
+- **new world monkeys**: non-Cebidae especially -- e.g., callitrichids (marmosets, tamarins), Aotidae (night/owl monkeys), Pitheciidae (titis, sakis, uakaris), Atelidae (howler, spider, woolly monkeys)
+- **old world monkeys**: in general, but especially other than long-tailed macaques
+- **apes**: gibbons especially and great apes other than chimpanzees
 
