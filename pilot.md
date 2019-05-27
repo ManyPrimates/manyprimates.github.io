@@ -2,7 +2,7 @@
 layout: page
 title: "Pilot"
 permalink: /pilot/
-image: assets/images/MP pilot_mosaic.jpg
+image: assets/images/pilot_fig.jpg
 ---
 
 ## Establishing an infrastructure for collaboration
