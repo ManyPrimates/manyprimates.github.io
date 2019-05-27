@@ -58,7 +58,7 @@ We hope you also contribute to the analysis and writing and you may do so even i
 Here are some additional resources for the study: 
 
 - [Pilot paper](https://psyarxiv.com/3xu7q/)
-- [Pre-registration for procedure]()
+- [Pre-registration for procedure](http://osf.io/x4fkn)
 - Pre-registration for analysis (to come)
 - [Project repository on GitHub](https://github.com/ManyPrimates/mp1_short_term_memory)
 
