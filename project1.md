@@ -21,9 +21,7 @@ ManyPrimates is a platform for promoting large scale collaboration and open scie
 
 The first step is to write an email to [{{ site.email }}](mailto:{{ site.email }}), stating how you would like to contribute. There are many different ways besides data collection to contribute to a ManyPrimates project and you can find details about the types of contributions in our [authorship guidelines](/authorship). 
 
-All data from the [pilot study](/pilot) will be included. For this round of data collection, we therefore hope to include new subjects who have not been tested for the [pilot study](/pilot).
-
-If you are planning to contribute data for the first time, please state in your email the species and number of subjects per species you are planning to contribute and enter this information in this [spreadsheet](https://docs.google.com/spreadsheets/d/1pbE9L5VervPXBS-pp7Ako9fNRw3FznKbL9xj0eP-v0Y/edit#gid=0). 
+All data from the [pilot study](/pilot) will be included. For this round of data collection, we therefore hope to include new subjects who have not been tested before. If you are planning to contribute new data, please state in your email the species and number of subjects per species you are planning to contribute and enter this information in this [spreadsheet](https://docs.google.com/spreadsheets/d/1pbE9L5VervPXBS-pp7Ako9fNRw3FznKbL9xj0eP-v0Y/edit#gid=0). 
 
 Make sure that our [ethics guidelines](/ethics) apply to your site and obtain approval by your relevant ethics committee before you collect any data. If you have any questions about ethics or specific ethical constraints, please reach out to the coordination team before you start collecting data.
 
