@@ -62,7 +62,7 @@ Here are some additional resources for the study:
 - Pre-registration for analysis (to come)
 - [Project repository on GitHub](https://github.com/ManyPrimates/mp1_short_term_memory)
 
-Thank you for being one of **ManyPrimates**! 
+Thank you for being one of **Many Primates**! 
 
 MP1 coordination team: Drew Altschul, Manuel Bohn, Lydia Hopper, Marine Joly, Christoph Völter, Julia Watzek  
 [{{ site.email }}](mailto:{{ site.email }})
