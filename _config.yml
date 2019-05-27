@@ -25,3 +25,4 @@ markdown: kramdown
 # Plugins
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
