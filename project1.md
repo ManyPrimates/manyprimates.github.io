@@ -9,7 +9,7 @@ image: assets/images/MP pilot_mosaic.jpg
 
 ## How to contribute?
 
-ManyPrimates is a platform for promoting large scale collaboration and open science practices in primate cognition research. In this project (MP1) we investigate short-term memory across the primate order. As such, it is a continuation of our [pilot study](/pilot "pilot study"). We hope to increase the number of species* and individuals per species in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
+ManyPrimates is a platform for promoting large scale collaboration and open science practices in primate cognition research. In this project (MP1) we investigate short-term memory across the primate order. As such, it is a continuation of our [pilot study](/pilot). We hope to increase the number of species* and individuals per species in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
 
 <div class="box">
     <p><strong>We are currently collecting data for this project!<br/>
@@ -19,11 +19,13 @@ ManyPrimates is a platform for promoting large scale collaboration and open scie
 
 ## 1. Get in touch
 
-The first step is to write an email to [{{ site.email }}](mailto:{{ site.email }}), stating how you would like to contribute. In your email, please state the species and number of subjects per species you are planning to contribute and enter this information in this [spreadsheet](https://docs.google.com/spreadsheets/d/1pbE9L5VervPXBS-pp7Ako9fNRw3FznKbL9xj0eP-v0Y/edit#gid=0). 
+The first step is to write an email to [{{ site.email }}](mailto:{{ site.email }}), stating how you would like to contribute. There are many different ways besides data collection to contribute to a ManyPrimates project and you can find details about the types of contributions in our [authorship guidelines](/authorship). 
 
-If you are planning to contribute data, please make sure that our [ethics guidelines](/ethics) apply to your site. Make sure to obtain approval by your relevant ethics committee before you collect any data. If you have any questions about ethics or specific ethical constraints, please reach out to the coordination team before you start collecting data.
+All data from the [pilot study](/pilot) will be included. For this round of data collection, we therefore hope to include new subjects who have not been tested for the [pilot study](/pilot).
 
-There are many different ways besides data collection to contribute to a ManyPrimates project and you can find details about the types of contributions in our [authorship guidelines](/authorship). 
+If you are planning to contribute data for the first time, please state in your email the species and number of subjects per species you are planning to contribute and enter this information in this [spreadsheet](https://docs.google.com/spreadsheets/d/1pbE9L5VervPXBS-pp7Ako9fNRw3FznKbL9xj0eP-v0Y/edit#gid=0). 
+
+Make sure that our [ethics guidelines](/ethics) apply to your site and obtain approval by your relevant ethics committee before you collect any data. If you have any questions about ethics or specific ethical constraints, please reach out to the coordination team before you start collecting data.
 
 If you haven’t already, join our [Slack workspace](https://join.slack.com/t/manyprimates/shared_invite/enQtNDM1MzE3MjM1OTExLTI1NjFmNWFkNThmOTdhZjFhZWQ2ZGY3ZmQ4ODE3OWYyZmZlMzIyNjliNDg2OWI4NzQwYzM3NDEwNzkyNTk1Yzg). Slack is a messaging tool we use for asking questions as well as for discussions. 
 
