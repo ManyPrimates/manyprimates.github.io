@@ -19,7 +19,7 @@ image: assets/images/pic15.jpg
 
 **Oct 2019** (*submitted*): Adriana Hernandez-Aguilar is planning to present a talk at the [VII Iberian Primatology Conference](https://7cip.apprimatologia.pt) in Lisbon, Portugal!
 
-**Sep 2019**: Manuel Bohn will present a talk at the [Joint Conference of the Sections Developmental & Educational Psychology (paEpsy)](http://paepsy-meeting.de/) in Leipzig, Germany!
+**Sep 11, 2019**: Manuel Bohn will present a talk at the [Joint Conference of the Sections Developmental & Educational Psychology (paEpsy)](http://paepsy-meeting.de/) in Leipzig, Germany!
 
 **Sep 2019**: Marine Joly will present a speed talk at the meeting of the [European Federation of Primatology & Primate Society of Great Britain (EFP/PSGB)](https://www.efp-psgb2019.com/) in Oxford, UK!
 
