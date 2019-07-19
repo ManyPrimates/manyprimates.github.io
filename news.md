@@ -27,7 +27,7 @@ image: assets/images/pic15.jpg
 
 **Aug 22, 2019**: Julia Watzek & Lydia Hopper will present a talk at the meeting of the [American Society of Primatologists (ASP)](https://asp.org/meetings/conference.cfm) in Madison, WI, USA!
 
-**Jul 2019**: Lydia Hopper will present a poster at the Annual Conference of the [Animal Behavior Society (ABS)](http://www.animalbehaviorsociety.org/2019/) in Chicago, IL, USA!
+**Jul 24, 2019**: Lydia Hopper will present a poster at the Annual Conference of the [Animal Behavior Society (ABS)](http://www.animalbehaviorsociety.org/2019/) in Chicago, IL, USA!
 
 **May 11, 2019**: Elizabeth Warren and Drew Altschul presented a talk at the Scottish Primate Research Group annual meeting! [[&rarr;&nbsp;Slides]](/assets/conferences/SPRG2019_Warren_Altschul.pdf)
 
