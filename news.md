@@ -23,7 +23,7 @@ image: assets/images/pic15.jpg
 
 **Sep 2019**: Marine Joly will present a speed talk at the meeting of the [European Federation of Primatology & Primate Society of Great Britain (EFP/PSGB)](https://www.efp-psgb2019.com/) in Oxford, UK!
 
-**Aug 2019** (*submitted*): Christoph Völter is planning to present a talk at the [Association for the Study of Animal Behaviour (ASAB) summer conference](https://www.uni-konstanz.de/asab-summer-2019/) in Konstanz, Germany!
+**Aug 28, 2019**: Christoph Völter will present a talk at the [Association for the Study of Animal Behaviour (ASAB) summer conference](https://www.uni-konstanz.de/asab-summer-2019/) in Konstanz, Germany!
 
 **Aug 22, 2019**: Julia Watzek & Lydia Hopper will present a talk at the meeting of the [American Society of Primatologists (ASP)](https://asp.org/meetings/conference.cfm) in Madison, WI, USA!
 
