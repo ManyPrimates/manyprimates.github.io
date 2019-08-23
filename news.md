@@ -25,9 +25,9 @@ image: assets/images/pic15.jpg
 
 **Aug 28, 2019**: Christoph Völter will present a talk at the [Association for the Study of Animal Behaviour (ASAB) summer conference](https://www.uni-konstanz.de/asab-summer-2019/) in Konstanz, Germany!
 
-**Aug 22, 2019**: Julia Watzek & Lydia Hopper will present a talk at the meeting of the [American Society of Primatologists (ASP)](https://asp.org/meetings/conference.cfm) in Madison, WI, USA!
+**Aug 22, 2019**: Julia Watzek & Lydia Hopper presented a talk at the meeting of the [American Society of Primatologists (ASP)](https://asp.org/meetings/conference.cfm) in Madison, WI, USA! [[&rarr; Slides]](/assets/conferences/ASP2019_Watzek_Hopper.pdf)
 
-**Jul 24, 2019**: Lydia Hopper will present a poster at the Annual Conference of the [Animal Behavior Society (ABS)](http://www.animalbehaviorsociety.org/2019/) in Chicago, IL, USA!
+**Jul 24, 2019**: Lydia Hopper presented a poster at the Annual Conference of the [Animal Behavior Society (ABS)](http://www.animalbehaviorsociety.org/2019/) in Chicago, IL, USA! [[&rarr; Poster]](/assets/conferences/ABS2019_Hopper.pdf)
 
 **May 11, 2019**: Elizabeth Warren and Drew Altschul presented a talk at the Scottish Primate Research Group annual meeting! [[&rarr;&nbsp;Slides]](/assets/conferences/SPRG2019_Warren_Altschul.pdf)
 
