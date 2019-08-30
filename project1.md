@@ -51,7 +51,7 @@ ManyPrimates is committed to open science. That is, all our procedures and analy
 
 ## 5. Contribute to analysis and writing
 
-We hope you also contribute to the analysis and writing and you may do so even if you have not contributed data to this project. If you have ideas about what might drive the evolution of short-term memory abilities, consider submitting a formal model as part of the [MP1 modeling challenge](/mp1/models). If you want to be part of the analysis team, get in touch with the coordination team. If you want to contribute to writing, please enter your name in our [write-up plan](https://docs.google.com/document/d/1x0FucBfr_BzTeYbEuPFHtsmTNlZRQGeFDJWkOxzlgPc/edit).
+We hope you also contribute to the analysis and writing and you may do so even if you have not contributed data to this project. If you have ideas about what might drive the evolution of short-term memory abilities, submit your model(s) as part of the [MP1 modeling challenge](/mp1/models). If you want to be part of the analysis team, get in touch with the coordination team. If you want to contribute to writing, please enter your name in our [write-up plan](https://docs.google.com/document/d/1x0FucBfr_BzTeYbEuPFHtsmTNlZRQGeFDJWkOxzlgPc/edit).
 
 Here are some additional resources for the study: 
 
