@@ -2,7 +2,10 @@
 layout: page
 title: "ManyPrimates 1: Modeling Challenge"
 permalink: /mp1/models
+image: assets/images/pilot_phylo2.png
 ---
+
+## What drives the evolution of short-term memory abilities?
 
 As part of the [ManyPrimates 1 project](/mp1) we want to test evolutionary hypotheses about short-term memory. That is, we want to examine which external (social, ecological) species level variables account for differences in short-term memory abilities between species. 
 
