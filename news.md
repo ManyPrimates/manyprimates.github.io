@@ -17,7 +17,9 @@ image: assets/images/pic15.jpg
 
 ## Upcoming and Past Presentations
 
-**Oct 2019** (*submitted*): Adriana Hernandez-Aguilar is planning to present a talk at the [VII Iberian Primatology Conference](https://7cip.apprimatologia.pt) in Lisbon, Portugal!
+**Oct 2019**: Adriana Hernandez-Aguilar will present a talk at the [VII Iberian Primatology Conference](https://7cip.apprimatologia.pt) in Lisbon, Portugal!
+
+**Oct 2, 2019**: Hélène Meunier presented a talk at the [Colloque de la Société Francophone De Primatologie](http://sfdp-primatologie.fr/index.php?page=colloque) in Le Guerno, France!
 
 **Sep 11, 2019**: Manuel Bohn presented a talk at the [Joint Conference of the Sections Developmental & Educational Psychology (paEpsy)](http://paepsy-meeting.de/) in Leipzig, Germany!
 
