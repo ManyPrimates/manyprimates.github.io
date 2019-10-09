@@ -7,6 +7,8 @@ image: assets/images/pic15.jpg
 
 ## General News
 
+**Sep 2019**: Our pilot paper [[preprint]](https://psyarxiv.com/3xu7q/) has been accepted for publication in *PLOS ONE*!
+
 **May 2019**: We are now collecting data for [ManyPrimates 1](/mp1)!
 
 **Mar 2019**: We submitted our first paper for publication! Find the [PsyArXiv preprint here.](https://psyarxiv.com/3xu7q/)
