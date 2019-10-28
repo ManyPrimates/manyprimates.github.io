@@ -7,7 +7,7 @@ image: assets/images/pic15.jpg
 
 ## General News
 
-**Sep 2019**: Our pilot paper [[preprint]](https://psyarxiv.com/3xu7q/) has been accepted for publication in *PLOS ONE*!
+**Oct 2019**: Our [pilot paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223675) has now been published in *PLOS ONE*!
 
 **May 2019**: We are now collecting data for [ManyPrimates 1](/mp1)!
 
@@ -19,7 +19,7 @@ image: assets/images/pic15.jpg
 
 ## Upcoming and Past Presentations
 
-**Oct 2019**: Adriana Hernandez-Aguilar will present a talk at the [VII Iberian Primatology Conference](https://7cip.apprimatologia.pt) in Lisbon, Portugal!
+**Oct 10, 2019**: Adriana Hernandez-Aguilar presented a talk at the [VII Iberian Primatology Conference](https://7cip.apprimatologia.pt) in Lisbon, Portugal!
 
 **Oct 2, 2019**: Hélène Meunier presented a talk at the [Colloque de la Société Francophone De Primatologie](http://sfdp-primatologie.fr/index.php?page=colloque) in Le Guerno, France!
 

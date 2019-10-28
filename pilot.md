@@ -7,7 +7,7 @@ image: assets/images/pilot_fig.jpg
 
 ## Establishing an infrastructure for collaboration
 
-<strong>Our first paper has been accepted for publication in *PLOS ONE*. Find the <a href="https://psyarxiv.com/3xu7q/">PsyArXiv preprint here.</a></strong>
+<strong>Our <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223675">first paper</a> has been published in *PLOS ONE*.</strong>
 
 The main goal of the ManyPrimates project is to build an infrastructure that facilitates collaboration in primate cognition research. As a first step towards this goal, we decided to run a pilot study. We wanted to make some important experiences (and mistakes) that would prepare us for the studies to come. Furthermore, the pilot study should serve as a proof of concept, showing that large-scale collaboration in primate cognition research is possible. Finally, by collecting some interesting data, we hoped to get more people excited about the project and also convince them to join. 
 
