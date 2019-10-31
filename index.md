@@ -42,9 +42,30 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
+		<h2>Publications</h2>
+	</header>
+	<div class="pubs">
+		<ul>
+			<li><strong>Many Primates</strong> et al. (<i>submitted</i>) Collaborative open science as a way to reproducibility and new insights in primate cognition research. <i>PsyArXiV</i>. Preprint <a href="https://doi.org/xxx">doi:xxx</a></li>
+			<li><strong>Many Primates</strong> et al. (2019) Establishing an infrastructure for collaboration in primate cognition research. <i>PLOS ONE 14</i>(10), e0223675. <a href="https://doi.org/10.1371/journal.pone.0223675">doi:10.1371/journal.pone.0223675</a></li>
+		</ul>
+	</div>
+</section>
+
+<!-- Section -->
+<section>
+	<header class="major">
 		<h2>Projects</h2>
 	</header>
 	<div class="posts">
+		<article>
+			<a href="{{ 'review' | absolute_url }}" class="image"><img src="assets/images/pic10.jpg" alt="" /></a>
+			<h3>Review of Primate Cognition Research</h3>
+			<p>We conducted a systematic review of primate cognition research published between 2014 and 2019 to quantify sample sizes and identify sampling biases. Based on this survey we outline why many research questions can only be addressed through large-scale collaboration.</p>
+			<ul class="actions">
+				<li><a href="{{ 'review' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
 		<article>
 			<a href="{{ 'pilot' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>Pilot</h3>
