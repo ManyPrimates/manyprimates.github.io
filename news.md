@@ -7,6 +7,8 @@ image: assets/images/pic15.jpg
 
 ## General News
 
+**Oct 2019**: We submitted a review paper about the state of primate cognition research for publication! Find [the PsyArXiv preprint here.](https://psyarxiv.com/8w7zd)
+
 **Oct 2019**: Our [pilot paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223675) has now been published in *PLOS ONE*!
 
 **May 2019**: We are now collecting data for [ManyPrimates 1](/mp1)!
