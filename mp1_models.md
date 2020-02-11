@@ -13,7 +13,7 @@ The number of potential predictors and models to consider are endless and there 
 
 To remain theoretically neutral, we want the community to select the models for consideration. We therefore announce the first **ManyPrimates modeling challenge**. We encourage everyone to spell out the process they think drives the evolution of short-term memory abilities and submit it to the challenge as a formal model. All submitted models will enter into a model comparison.<sup>1</sup> The winning model(s) will be highlighted in the corresponding paper and the author(s) will be honored at the ManyPrimates symposium in July 2020. 
 
-Please submit your model<sup>2</sup> either as a formula (e.g. y ~ x + z) and/or a graphical model ([DAG](https://en.wikipedia.org/wiki/Directed_acyclic_graph) or structural causal model) to [{{ site.email }}](mailto:{{ site.email }}) together with a brief verbal description of the causal structure<sup>3</sup> and relevant references (if applicable). In addition, please list all predictors you want to include and specify how they should be measured or from which databases they could be obtained. We will accept models until February 1st, 2020.
+Please submit your model<sup>2</sup> either as a formula (e.g. y ~ x + z) and/or a graphical model ([DAG](https://en.wikipedia.org/wiki/Directed_acyclic_graph) or structural causal model) to [{{ site.email }}](mailto:{{ site.email }}) together with a brief verbal description of the causal structure<sup>3</sup> and relevant references (if applicable). In addition, please list all predictors you want to include and specify how they should be measured or from which databases they could be obtained. We will accept models until March 31st, 2020.
 
 ***
 
