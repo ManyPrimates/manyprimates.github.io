@@ -84,10 +84,18 @@ layout: default
 		</article>
 		<article>
 			<a href="{{ 'mp2' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>ManyPrimates 2</h3>
-			<p>We are currently collecting ideas for the second ManyPrimates project. If you are interested in joining the project, please <a href="mailto:{{ site.email }}" target="_blank">get in touch</a>.</p>
+			<h3>ManyPrimates 2: Delay of Gratification</h3>
+			<p>The second ManyPrimates project will assess primates' ability to resist the temptation of an immediate reward in order to receive a larger or better reward later on. If you are interested in joining the project, please <a href="mailto:{{ site.email }}" target="_blank">get in touch</a>.</p>
 			<ul class="actions">
 				<li><a href="{{ 'mp2' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
+		<article>
+			<a href="{{ 'mp3' | absolute_url }}" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<h3>ManyPrimates 3: Inference by Exclusion</h3>
+			<p>The third ManyPrimates project will assess primates' ability to make choices by excluding alternative options. If you are interested in joining the project, please <a href="mailto:{{ site.email }}" target="_blank">get in touch</a>.</p>
+			<ul class="actions">
+				<li><a href="{{ 'mp3' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
 	</div>
