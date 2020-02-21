@@ -26,7 +26,7 @@ Please submit your model to [{{ site.email }}](mailto:{{ site.email }}). We will
 ***
 
 <p style="font-size: .75rem;">
-<sup>1</sup> Only specify the species level *external* variables and their relations; all models will include a standard set of control predictors and will account for phylogeny.<br/>
+<sup>1</sup> Only specify the species level <emph>external</emph> variables and their relations; all models will include a standard set of control predictors and will account for phylogeny.<br/>
 
 <sup>2</sup> Models will be fit in a Bayesian framework and compared based on WAIC scores and weights - whenever a causal model is submitted, we will also compare models based on their testable implications (see e.g. Peters, Janzing & Schölkopf, 2017; Pearl, Glymour & Jewell, 2016).<br/>
 
