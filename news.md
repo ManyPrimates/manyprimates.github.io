@@ -7,7 +7,7 @@ image: assets/images/pic15.jpg
 
 ## General News
 
-**Feb 2020**: Our review paper has now been published in *Japanese Psychological Review*! Find the [paper here.](assets/pdf/ManyPrimates_JPR_2019.pdf)
+**Feb 2020**: Our review paper has now been published in *Japanese Psychological Review*! Find the [paper here.](/assets/pdf/ManyPrimates_JPR_2019.pdf)
 
 **Oct 2019**: We submitted a review paper about the state of primate cognition research for publication! Find the [PsyArXiv preprint here.](https://psyarxiv.com/8w7zd)
 
