@@ -7,7 +7,7 @@ image: assets/images/pic14.jpg
 
 ## Collaborative open science as a way to reproducibility and new insights in primate cognition research
 
-<strong>This review paper has been accepted for publication in the *Japanese Psychological Review*! Find the <a href="https://psyarxiv.com/8w7zd">PsyArXiv preprint here.</a></strong>
+<strong>This review paper has now been published in the *Japanese Psychological Review*! Find the <a href="https://psyarxiv.com/8w7zd">paper here.</a></strong>
 
 <div style="text-align: center;"><img class="image" src="/assets/images/review1.png" style="max-width: 100%; max-height: 650px;" /></div><br/>
 
