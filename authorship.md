@@ -88,6 +88,6 @@ Researchers who fulfill one or more of the following criteria are granted author
 
 ## Assignment of Authorship
 
-All ManyPrimates papers will be published with “Many Primates” as the first author. Individual authors are listed in the authorship by-line after “Many Primates”. Authorship is claimed by putting one’s name down in the document that is used to write up each project. The type of contribution has to be specified in the author contribution section of each paper. In case one thinks that another person’s claim to authorship is unjustified, they can appeal to the authorship committee for that project (comprised of five volunteers), which will verify the claimed contribution and withdraw authorship if unrightfully claimed.
+All ManyPrimates papers will be published with “ManyPrimates” as the first author. Individual authors are listed in the authorship by-line after “ManyPrimates”. Authorship is claimed by putting one’s name down in the document that is used to write up each project. The type of contribution has to be specified in the author contribution section of each paper. In case one thinks that another person’s claim to authorship is unjustified, they can appeal to the authorship committee for that project (comprised of five volunteers), which will verify the claimed contribution and withdraw authorship if unrightfully claimed.
 
 *April 16, 2019*
