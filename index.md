@@ -49,7 +49,7 @@ layout: default
 
 <!-- Section -->
 <section>
-	<header class="major">
+	<header class="major" id="pubs">
 		<h2>Publications</h2>
 	</header>
 	<div class="pubs">
