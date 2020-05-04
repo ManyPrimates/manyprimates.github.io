@@ -11,7 +11,7 @@ ManyPrimates is a platform for promoting large scale collaboration and open scie
 
 <div class="box">
     <p><strong>We are currently collecting data for this project!<br/>
-    Deadline to contribute data: May 26, 2020</strong><br/>
+    Deadline to contribute data: [given the extraordinary circumstances surrounding COVID-19, we have extended the deadline indefinitely]</strong><br/>
     (or until at least 20 species with 8 individuals per species)</p>
 </div>
 
