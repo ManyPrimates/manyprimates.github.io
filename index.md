@@ -18,7 +18,7 @@ layout: default
 		<article>
 			<span class="icon fa-users"></span>
 			<div class="content">
-				<h3><a href="{{ 'symposium2021' | absolute_url }}">Symposium 2020</a></h3>
+				<h3><a href="{{ 'symposium2021' | absolute_url }}">Symposium 2021</a></h3>
 				<p>We are planning to hold the first ManyPrimates symposium in Summer 2021 at the MPI for Evolutionary Anthropology in Leipzig, Germany.</p>
 				<!-- <p>Join us for the first ManyPrimates symposium, taking place from July 8th to July 10th 2020 at the MPI for Evolutionary Anthropology in Leipzig, Germany.</p> -->
 			</div>
