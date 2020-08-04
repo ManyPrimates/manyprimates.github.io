@@ -7,6 +7,8 @@ image: assets/images/pic15.jpg
 
 ## General News
 
+**May 2020**: The ManyPrimates project was cited in the 2017-2019/20 research report of the Max Planck Institute for Human Development. Find the [report here.](/assets/pdfs/mpib_berlin_research_report_2017_2019-20.pdf)
+
 **Feb 2020**: Our review paper has now been published in *Japanese Psychological Review*! Find the [paper here.](/assets/pdfs/ManyPrimates_JPR_2019.pdf)
 
 **Oct 2019**: We submitted a review paper about the state of primate cognition research for publication! Find the [PsyArXiv preprint here.](https://psyarxiv.com/8w7zd)
