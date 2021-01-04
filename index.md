@@ -54,8 +54,9 @@ layout: default
 	</header>
 	<div class="pubs">
 		<ul>
-			<li><strong>ManyPrimates</strong> et al. (2019) Collaborative open science as a way to reproducibility and new insights in primate cognition research. <i>Japanese Psychological Review 62</i>(3), 205-220 <a href="/assets/pdfs/ManyPrimates_JPR_2019.pdf">[&rarr; PDF]</a></li>
-			<li><strong>ManyPrimates</strong> et al. (2019) Establishing an infrastructure for collaboration in primate cognition research. <i>PLOS ONE 14</i>(10), e0223675. <a href="https://doi.org/10.1371/journal.pone.0223675">doi:10.1371/journal.pone.0223675</a></li>
+			<li><strong>ManyPrimates</strong> et al. (2020) ManyPrimates : une infrastructure de collaboration internationale dans la recherche en cognition des primates. <i>Revue de primatologie</i>(11 | 2020). <a href="https://doi.org/10.4000/primatologie.8808">doi:10.4000/primatologie.8808</a> <a href="/assets/pdfs/ManyPrimates_RdP_2020.pdf">[&rarr; PDF]</a></li>
+			<li><strong>ManyPrimates</strong> et al. (2019) Collaborative open science as a way to reproducibility and new insights in primate cognition research. <i>Japanese Psychological Review 62</i>(3), 205-220. <a href="/assets/pdfs/ManyPrimates_JPR_2019.pdf">[&rarr; PDF]</a></li>
+			<li><strong>ManyPrimates</strong> et al. (2019) Establishing an infrastructure for collaboration in primate cognition research. <i>PLOS ONE 14</i>(10), e0223675. <a href="https://doi.org/10.1371/journal.pone.0223675">doi:10.1371/journal.pone.0223675</a> <a href="/assets/pdfs/ManyPrimates_PONE_2019.pdf">[&rarr; PDF]</a></li>
 		</ul>
 	</div>
 </section>

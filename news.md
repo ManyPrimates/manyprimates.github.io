@@ -8,6 +8,8 @@ image: assets/images/pic15.jpg
 ## General News
 
 
+**Dec 2020**: Our new paper (in French) has now been published in *Revue de primatologie*! Find the [paper here.](/assets/pdfs/ManyPrimates_RdP_2020.pdf)
+
 **Oct 2020**: The ManyPrimates project received a [SIPS Commendation](https://improvingpsych.org/mission/awards/) from the Society for the Improvement of Psychological Science!
 
 **May 2020**: The ManyPrimates project was cited in the 2017-2019/20 research report of the Max Planck Institute for Human Development. Find the [report here.](/assets/pdfs/mpib_berlin_research_report_2017_2019-20.pdf)
