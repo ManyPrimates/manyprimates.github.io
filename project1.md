@@ -10,7 +10,7 @@ image: assets/images/MP pilot_mosaic.jpg
 ManyPrimates is a platform for promoting large scale collaboration and open science practices in primate cognition research. In this project (MP1) we investigate short-term memory across the primate order. As such, it is a continuation of our [pilot study](/pilot). We hope to increase the number of species* and individuals per species in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
 
 <div class="box">
-    <p><strong>We wrapped up data collection for this project!<br/>
+    <p><strong>We wrapped up data collection for this project!</strong><br/>
     But you can still contribute to the analysis and writing -- even if you did not contribute data.</p>
 </div>
 
