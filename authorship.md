@@ -81,7 +81,7 @@ Researchers who fulfill one or more of the following criteria are granted author
 </table>
 </div>
 
-### General notes
+### General Notes
 
 - Contributors are strongly encouraged to contribute data from as many individuals as possible.
 - Contribution to more than one of the sections above is possible and also desirable.
@@ -89,5 +89,10 @@ Researchers who fulfill one or more of the following criteria are granted author
 ## Assignment of Authorship
 
 All ManyPrimates papers will be published with “ManyPrimates” as the first author. Individual authors are listed in the authorship by-line after “ManyPrimates”. Authorship is claimed by putting one’s name down in the document that is used to write up each project. The type of contribution has to be specified in the author contribution section of each paper. In case one thinks that another person’s claim to authorship is unjustified, they can appeal to the authorship committee for that project (comprised of five volunteers), which will verify the claimed contribution and withdraw authorship if unrightfully claimed.
+
+## Journal Selection
+
+ManyPrimates is committed to open science. All our empirical papers will be published in fully open-access journals. In addition, we particularly aim to support community-run, not-for-profit journals.
+
 
 *April 16, 2019*
