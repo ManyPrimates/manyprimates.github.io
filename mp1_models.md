@@ -11,7 +11,7 @@ Our first project - [ManyPrimates 1 (MP1)](/mp1) - tests short-term memory. The 
 
 The number of potential predictors and models to consider are endless and there is no a priori way of determining which models and predictors make sense and which do not. The only way is to think through each model and its implications. The outcome of this process depends on theoretical views about what drives cognitive evolution.
 
-To remain theoretically neutral, we want the community to select the models for consideration. We therefore announce the first **ManyPrimates modeling challenge**. We encourage everyone to spell out the process they think drives the evolution of short-term memory abilities and submit it to the challenge as a model.<sup>1</sup> All submitted models will enter into a model comparison.<sup>2</sup> The winning model(s) will be highlighted in the corresponding paper and the author(s) will be honored at the ManyPrimates symposium in Summer 2021. 
+To remain theoretically neutral, we want the community to select the models for consideration. We therefore announce the first **ManyPrimates modeling challenge**. We encourage everyone to spell out the process they think drives the evolution of short-term memory abilities and submit it to the challenge as a model.<sup>1</sup> All submitted models will enter into a model comparison.<sup>2</sup> The winning model(s) will be highlighted in the corresponding paper and the author(s) will be honored at the [ManyPrimates symposium](/symposium). 
 
 There are different ways you can submit a model:
 
