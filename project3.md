@@ -7,6 +7,6 @@ image: assets/images/pic16.jpg
 
 ## In progress
 
-The third ManyPrimates project will assess primates' ability to make choices by excluding alternative options. We have assembled a coordination team and are currently working out details ahead of data collection. If you are interested in joining the project, please [get in touch](mailto:{{ site.email }}).
+The third ManyPrimates project will assess primates' ability to make choices by excluding alternative options. We have assembled a coordination team, have drafted the data collection procedures, and are currently working on submitting a registered report for this study. If you are interested in joining the project, please [get in touch](mailto:{{ site.email }}).
 
 
