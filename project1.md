@@ -16,8 +16,8 @@ If you're interested in joining the project, please [get in touch](mailto:{{ sit
 ## Additional resources
 
 - [Pilot paper](https://psyarxiv.com/3xu7q/)
-- [Pre-registration for procedure](http://osf.io/x4fkn)
-- [Pre-registration for analysis](https://docs.google.com/document/d/1qdweg04ntYshGZtyfs7Aa9mkgfj1k-Iq0cHsmsLlfz8/edit?usp=sharing)
+- [Pre-registration for procedure](https://osf.io/eyvnh)
+- [Pre-registration for analysis](https://osf.io/sf3bx)
 - [Modeling challenge](/mp1/models)
 - [Project repository on GitHub](https://github.com/ManyPrimates/mp1_short_term_memory)
 
