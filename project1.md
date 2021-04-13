@@ -9,7 +9,7 @@ image: assets/images/MP pilot_mosaic.jpg
 
 The first ManyPrimates project is a continuation of our [pilot_study](/pilot). We collected data from 400+ primates from 40+ species and almost 30 sites in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
 
-We wrapped up data collection for this project! But you can still contribute to the project -- even if you did not contribute data. You can find details about the types of contributions in our [authorship guidelines](/authorship). 
+We wrapped up data collection for this project! But you can still contribute to the project (e.g., by working on the analysis and writing) -- even if you did not collect data for it. You can find details about the many types of contributions in our [authorship guidelines](/authorship). 
 
 If you're interested in joining the project, please [get in touch](mailto:{{ site.email }})! If you haven’t already, join our [Slack workspace](https://join.slack.com/t/manyprimates/shared_invite/enQtNDM1MzE3MjM1OTExLTI1NjFmNWFkNThmOTdhZjFhZWQ2ZGY3ZmQ4ODE3OWYyZmZlMzIyNjliNDg2OWI4NzQwYzM3NDEwNzkyNTk1Yzg). Slack is a messaging tool we use for asking questions as well as for discussions and coordination. 
 
@@ -24,5 +24,4 @@ If you're interested in joining the project, please [get in touch](mailto:{{ sit
 Thank you for being one of **ManyPrimates**! 
 
 MP1 coordination team: Drew Altschul, Manuel Bohn, Lydia Hopper, Marine Joly, Christoph Völter, Julia Watzek  
-[{{ site.email }}](mailto:{{ site.email }})
 
