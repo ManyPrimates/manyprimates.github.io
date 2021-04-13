@@ -17,7 +17,7 @@ If you are planning to collect data, please state in your email the species and 
 
 Make sure that our [ethics guidelines](/ethics) apply to your site and obtain approval by your relevant ethics committee before you collect any data. If you have any questions about ethics or specific ethical constraints, please reach out to the coordination team before you start collecting data.
 
-If you haven’t already, join our [Slack workspace](https://join.slack.com/t/manyprimates/shared_invite/enQtNDM1MzE3MjM1OTExLTI1NjFmNWFkNThmOTdhZjFhZWQ2ZGY3ZmQ4ODE3OWYyZmZlMzIyNjliNDg2OWI4NzQwYzM3NDEwNzkyNTk1Yzg). Slack is a messaging tool we use for asking questions as well as for discussions and coordination. 
+If you haven’t already, join our [Slack workspace]({{ site.slack_url }}). Slack is a messaging tool we use for asking questions as well as for discussions and coordination. 
 
 ## 2. Implement the setup and the procedure
 
