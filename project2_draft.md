@@ -53,6 +53,6 @@ Here are some additional resources for the study:
 
 Thank you for being one of **ManyPrimates**! 
 
-MP2 coordination team
+MP2 coordination team  
 [{{ site.email }}](mailto:{{ site.email }})
 
