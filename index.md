@@ -87,7 +87,7 @@ layout: default
 		<article>
 			<a href="{{ 'mp1' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
 			<h3>ManyPrimates 1: Short-Term Memory</h3>
-			<p>The first ManyPrimates project is a continuation of our <a href="{{ 'pilot' | absolute_url }}">pilot study</a>. We hope to increase the number of species and individuals per species in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.</p>
+			<p>The first ManyPrimates project is a continuation of our <a href="{{ 'pilot' | absolute_url }}">pilot study</a>. We collected data from 400+ primates from 40+ species and almost 30 sites in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.</p>
 			<ul class="actions">
 				<li><a href="{{ 'mp1' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
