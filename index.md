@@ -88,6 +88,7 @@ layout: default
 			<a href="{{ 'mp1' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
 			<h3>ManyPrimates 1: Short-Term Memory</h3>
 			<p>The first ManyPrimates project is a continuation of our <a href="{{ 'pilot' | absolute_url }}">pilot study</a>. We collected data from 400+ primates from 40+ species and almost 30 sites in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.</p>
+			<p><em><strong>Status</strong>: Analysis & writing</em></p>
 			<ul class="actions">
 				<li><a href="{{ 'mp1' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
@@ -95,7 +96,8 @@ layout: default
 		<article>
 			<a href="{{ 'mp2' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>ManyPrimates 2: Delay of Gratification</h3>
-			<p>The second ManyPrimates project will assess primates' ability to resist the temptation of an immediate reward in order to receive a larger or better reward later on. If you are interested in joining the project, please <a href="mailto:{{ site.email }}" target="_blank">get in touch</a>.</p>
+			<p>For this project, we will assess primates' ability to resist the temptation of an immediate reward in order to receive a larger or better reward later on.</p>
+			<p><em><strong>Status</strong>: Data collection (soon!)</em></p>
 			<ul class="actions">
 				<li><a href="{{ 'mp2' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
@@ -103,7 +105,8 @@ layout: default
 		<article>
 			<a href="{{ 'mp3' | absolute_url }}" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
 			<h3>ManyPrimates 3: Inference by Exclusion</h3>
-			<p>The third ManyPrimates project will assess primates' ability to make choices by excluding alternative options. If you are interested in joining the project, please <a href="mailto:{{ site.email }}" target="_blank">get in touch</a>.</p>
+			<p>For this project, we will assess primates' ability to make choices by excluding alternative options.</p>
+			<p><em><strong>Status</strong>: Writing (Stage 1 Registered Report)</em></p>
 			<ul class="actions">
 				<li><a href="{{ 'mp3' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
