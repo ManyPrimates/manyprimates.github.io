@@ -15,7 +15,7 @@ Source code for [https://manyprimates.github.io/](https://manyprimates.github.io
 │   ├── conferences     <-- put PDFs for slides/posters here
 │   ├── images          <-- put images here
 │   └── pdfs            <-- put PDFs for published papers here
-├── index.md            <-- edits these .md files to edit content
+├── index.md            <-- edit these .md files to edit content
 ├── pilot.md
 ├── project1.md
 ├── project2.md
