@@ -7,7 +7,7 @@ image: assets/images/MP pilot_mosaic.jpg
 
 ## The evolution of short-term memory
 
-The first ManyPrimates project is a continuation of our [pilot_study](/pilot). We collected data from 400+ primates from 40+ species and almost 30 sites in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
+The first ManyPrimates project is a continuation of our [pilot study](/pilot). We collected data from 400+ primates from 40+ species and almost 30 sites in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
 
 We wrapped up data collection for this project! But you can still contribute to the project (e.g., by working on the analysis and writing) -- even if you did not collect data for it. You can find details about the many types of contributions in our [authorship guidelines](/authorship). 
 
