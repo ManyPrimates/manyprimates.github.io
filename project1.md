@@ -7,11 +7,11 @@ image: assets/images/MP pilot_mosaic.jpg
 
 ## The evolution of short-term memory
 
+<strong>This paper has now been submitted for publication! Find the <a href="https://psyarxiv.com/5etnf">preprint here.</a></strong>
+
 The first ManyPrimates project is a continuation of our [pilot study](/pilot). We collected data from 400+ primates from 40+ species and almost 30 sites in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
 
-We wrapped up data collection for this project! But you can still contribute to the project (e.g., by working on the analysis and writing) -- even if you did not collect data for it. You can find details about the many types of contributions in our [authorship guidelines](/authorship). 
 
-If you're interested in joining the project, please [get in touch](mailto:{{ site.email }})! If you haven’t already, join our [Slack workspace]({{ site.slack_url }}). Slack is a messaging tool we use for asking questions as well as for discussions and coordination. 
 
 ## Additional resources
 

@@ -54,6 +54,7 @@ layout: default
 	</header>
 	<div class="pubs">
 		<ul>
+			<li><strong>ManyPrimates</strong> et al. <i>(submitted)</i> The evolution of primate short-term memory <a href="https://doi.org/10.31234/osf.io/5etnf">[Preprint] doi:10.31234/osf.io/5etnf</a></li>
 			<li><strong>ManyPrimates</strong> et al. <i>(accepted)</i> Collaboration and open science initiatives in primate research. In M. J. Beran & B. Schwartz, <i>Primate Cognitive Studies</i>. Cambridge University Press. <a href="https://doi.org/10.31219/osf.io/7c93a">[Preprint] doi:10.31219/osf.io/7c93a</a></li>
 			<li><strong>ManyPrimates</strong> et al. (2020) ManyPrimates : une infrastructure de collaboration internationale dans la recherche en cognition des primates. <i>Revue de primatologie 11|2020</i>. <a href="https://doi.org/10.4000/primatologie.8808">doi:10.4000/primatologie.8808</a> <a href="/assets/pdfs/ManyPrimates_RdP_2020.pdf">[&rarr; PDF]</a></li>
 			<li><strong>ManyPrimates</strong> et al. (2019) Collaborative open science as a way to reproducibility and new insights in primate cognition research. <i>Japanese Psychological Review 62</i>(3), 205-220. <a href="https://doi.org/10.24602/sjpr.62.3_205">doi:10.24602/sjpr.62.3_205</a> <a href="/assets/pdfs/ManyPrimates_JPR_2019.pdf">[&rarr; PDF]</a></li>
@@ -88,7 +89,7 @@ layout: default
 			<a href="{{ 'mp1' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
 			<h3>ManyPrimates 1: Short-Term Memory</h3>
 			<p>The first ManyPrimates project is a continuation of our <a href="{{ 'pilot' | absolute_url }}">pilot study</a>. We collected data from 400+ primates from 40+ species and almost 30 sites in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.</p>
-			<p><em><strong>Status</strong>: Analysis & writing</em></p>
+			<p><em><strong>Status</strong>: Submitted for publication</em></p>
 			<ul class="actions">
 				<li><a href="{{ 'mp1' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
@@ -97,7 +98,7 @@ layout: default
 			<a href="{{ 'mp2' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>ManyPrimates 2: Delay of Gratification</h3>
 			<p>For this project, we will assess primates' ability to resist the temptation of an immediate reward in order to receive a larger or better reward later on.</p>
-			<p><em><strong>Status</strong>: Data collection (soon!)</em></p>
+			<p><em><strong>Status</strong>: Data collection</em></p>
 			<ul class="actions">
 				<li><a href="{{ 'mp2' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
