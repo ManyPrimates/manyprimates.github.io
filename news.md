@@ -36,6 +36,8 @@ image: assets/images/pic15.jpg
 
 ## Upcoming and Past Presentations
 
+**Sep, 2021**: Drew Altschul represented ManyPrimates at the [‘Lessons from the “Big Team Science” movement panel’ at Metascience 2021](https://metascience2021.org/events/lessons-from-the-big-team-science-movement/)!
+
 **Oct 10, 2019**: Adriana Hernandez-Aguilar presented a talk at the [VII Iberian Primatology Conference](https://7cip.apprimatologia.pt) in Lisbon, Portugal!
 
 **Oct 2, 2019**: Hélène Meunier presented a talk at the [Colloque de la Société Francophone De Primatologie](http://sfdp-primatologie.fr/index.php?page=colloque) in Le Guerno, France!
