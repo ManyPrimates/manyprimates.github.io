@@ -8,6 +8,8 @@ image: assets/images/pic15.jpg
 ## General News
 
 
+**Dec 2021**: We are now collecting data for [ManyPrimates 2](/mp2)!
+
 **Feb 2021**: Our book chapter on collaboration and open science initiatives in primate research has now been accepted! Find the [preprint here.](https://osf.io/7c93a/)
 
 **Dec 2020**: Our new paper about the ManyPrimates project has now been published (in French) in *Revue de primatologie*! Find the [paper here.](/assets/pdfs/ManyPrimates_RdP_2020.pdf)
