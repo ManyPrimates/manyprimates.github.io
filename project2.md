@@ -15,7 +15,7 @@ The first step is to write an email to [{{ site.email }}](mailto:{{ site.email }
 
 If you are planning to collect data, please state in your email the species and number of subjects per species you are planning to contribute and which MP2 experiment(s) you would like to contribute to. 
 
-Make sure that our [ethics guidelines](/ethics) apply to your site and obtain approval by your relevant ethics committee before you collect any data. If you have any questions about ethics or specific ethical constraints, please reach out to the coordination team before you start collecting data.
+Make sure that our [ethics guidelines](/ethics) apply to your site and obtain approval by your relevant ethics committee before you collect any data. Please note that MP2 will be open to researchers who do not conduct invasive research of any kind. If you have any questions about ethics or specific ethical constraints, please reach out to the coordination team before you start collecting data.
 
 If you haven’t already, join our [Slack workspace]({{ site.slack_url }}). Slack is a messaging tool we use for asking questions as well as for discussions and coordination.
 
