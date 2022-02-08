@@ -11,7 +11,7 @@ ManyPrimates is a platform for promoting large scale collaboration and open scie
 
 <div class="box">
     <p><strong>We are currently collecting data for this project!</strong><br/>
-    Deadline to contribute data: August 31, 2023]<br/>
+    Deadline to contribute data: August 31, 2023<br/>
     </p>
 </div>
 
