@@ -1,54 +1,108 @@
 <!-- Sidebar -->
-  <div id="sidebar">
+<div id="sidebar">
     <div class="inner">
-
-      <!-- Menu -->
+        <!-- Menu -->
         <nav id="menu">
-          <!-- Logo -->
-          <a href="{{ site.url | absolute_url }}" id="sidelogo"><img src="/assets/images/mp_logo300.png" alt="" /></a>
+            <!-- Logo -->
+            <a href="{{ site.url | absolute_url }}" id="sidelogo"
+                ><img src="/assets/images/mp_logo300.png" alt=""
+            /></a>
 
-          <header class="major">
-            <h2>Menu</h2>
-          </header>
-          <ul>
-            <li><a href="{{ site.url | absolute_url }}">Home</a></li>
-            <li><a href="{{ 'news' | absolute_url }}">News</a></li>
-            <li><a href="{{ 'symposium' | absolute_url }}">Symposium</a></li>
-            <li><a href="{{ '#pubs' | absolute_url }}">Publications</a></li>
-            <li>
-              <span class="opener">Projects</span>
-              <ul>
-                <li><a href="{{ 'review' | absolute_url }}">Review of Primate Cognition Research</a></li>
-                <li><a href="{{ 'pilot' | absolute_url }}">Pilot</a></li>
-                <li><a href="{{ 'mp1' | absolute_url }}">ManyPrimates 1</a></li>
-                <li><a href="{{ 'mp2' | absolute_url }}">ManyPrimates 2</a></li>
-                <li><a href="{{ 'mp3' | absolute_url }}">ManyPrimates 3</a></li>
-              </ul>
-            </li>
-            <li><a href="{{ 'authorship' | absolute_url }}">Authorship Guidelines</a></li>
-            <li><a href="{{ 'ethics' | absolute_url }}">Ethics Guidelines</a></li>
-          </ul>
+            <header class="major">
+                <h2>Menu</h2>
+            </header>
+            <ul>
+                <li><a href="{{ site.url | absolute_url }}">Home</a></li>
+                <li><a href="{{ 'news' | absolute_url }}">News</a></li>
+                <li>
+                    <a href="{{ 'symposium' | absolute_url }}">Symposium</a>
+                </li>
+                <li><a href="{{ '#pubs' | absolute_url }}">Publications</a></li>
+                <li>
+                    <span class="opener">Projects</span>
+                    <ul>
+                        <li>
+                            <a href="{{ 'review' | absolute_url }}"
+                                >Review of Primate Cognition Research</a
+                            >
+                        </li>
+                        <li>
+                            <a href="{{ 'pilot' | absolute_url }}">Pilot</a>
+                        </li>
+                        <li>
+                            <a href="{{ 'mp1' | absolute_url }}"
+                                >ManyPrimates 1</a
+                            >
+                        </li>
+                        <li>
+                            <a href="{{ 'mp2' | absolute_url }}"
+                                >ManyPrimates 2</a
+                            >
+                        </li>
+                        <li>
+                            <a href="{{ 'mp3' | absolute_url }}"
+                                >ManyPrimates 3</a
+                            >
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="{{ 'authorship' | absolute_url }}"
+                        >Authorship Guidelines</a
+                    >
+                </li>
+                <li>
+                    <a href="{{ 'ethics' | absolute_url }}"
+                        >Ethics Guidelines</a
+                    >
+                </li>
+            </ul>
         </nav>
 
-      <!-- Section -->
+        <!-- Section -->
         <section>
-          <header class="major">
-            <h2>Contact</h2>
-          </header>
-          <p>We encourage everyone who is interested in primate cognition to get involved. Access to primates is <strong>NOT</strong> a prerequisite.</p>
-          <ul class="contact">
-            <li class="fa-envelope-o"><a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a></li>
-            <li class="fa-twitter"><a href="{{ site.twitter_url }}" target="_blank">twitter.com/ManyPrimates</a></li>
-            <li class="fa-github"><a href="{{ site.github_url }}" target="_blank">github.com/ManyPrimates</a></li>
-            <li class="ai-osf"><a href="{{ site.osf_url }}" target="_blank">osf.io/tr6q3</a></li>
-            <li class="fa-slack"><a href="{{ site.slack_url }}" target="_blank">manyprimates.slack.com</a></li>
-          </ul>
+            <header class="major">
+                <h2>Contact</h2>
+            </header>
+            <p>
+                We encourage everyone who is interested in primate cognition to
+                get involved. Access to primates is <strong>NOT</strong> a
+                prerequisite.
+            </p>
+            <ul class="contact">
+                <li class="fa-envelope-o">
+                    <a href="mailto:{{ site.email }}" target="_blank"
+                        >{{ site.email }}</a
+                    >
+                </li>
+                <li class="fa-twitter">
+                    <a href="{{ site.twitter_url }}" target="_blank"
+                        >twitter.com/ManyPrimates</a
+                    >
+                </li>
+                <li class="fa-github">
+                    <a href="{{ site.github_url }}" target="_blank"
+                        >github.com/ManyPrimates</a
+                    >
+                </li>
+                <li class="ai-osf">
+                    <a href="{{ site.osf_url }}" target="_blank"
+                        >osf.io/tr6q3</a
+                    >
+                </li>
+                <li class="fa-slack">
+                    <a href="{{ site.slack_url }}" target="_blank"
+                        >manyprimates.slack.com</a
+                    >
+                </li>
+            </ul>
         </section>
 
-      <!-- Footer -->
+        <!-- Footer -->
         <footer id="footer">
-          <p class="copyright">&copy; 2021 {{ site.title }}. All rights reserved.</p>
+            <p class="copyright">
+                &copy; 2022 {{ site.title }}. All rights reserved.
+            </p>
         </footer>
-
     </div>
-  </div>
+</div>
