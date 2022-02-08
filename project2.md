@@ -9,6 +9,12 @@ image: assets/images/pic11.jpg
 
 ManyPrimates is a platform for promoting large scale collaboration and open science practices in primate cognition research. In this project (MP2), we will assess primates’ ability to resist the temptation of an immediate reward in order to receive a larger or better reward later on.
 
+<div class="box">
+    <p><strong>We are currently collecting data for this project!<br/>
+    Deadline to contribute data: August 31, 2023]<br/>
+    </p>
+</div>
+
 ## 1. Get in touch
 
 The first step is to write an email to [{{ site.email }}](mailto:{{ site.email }}), stating how you would like to contribute. There are many different ways besides data collection to contribute to a ManyPrimates project and you can find details about the types of contributions in our [authorship guidelines](/authorship). 
