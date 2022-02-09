@@ -22,10 +22,10 @@ We are looking for researchers to contribute data for primates involved in ManyP
 
 ## What we need from you:
 
-* For each individual you work with, please fill out the following form on personality and well-being: https://forms.gle/4c6LL4rmuUN8AJ2R9
-* The form will ask for information on your primates' personalities and well-being. The form can be submitted multiple times, and you should submit one for each individual primate.
-* Get 2 other people to fill out this form as well. The goal is to collect 3 personality and well-being ratings for every individual.
-* Please fill out the second form, on individual demographics: https://forms.gle/AiMHYf9Pi5mZMXyr9
+- For each individual you work with, please fill out the following form on personality and well-being: https://forms.gle/4c6LL4rmuUN8AJ2R9
+- The form will ask for information on your primates' personalities and well-being. The form can be submitted multiple times, and you should submit one for each individual primate.
+- Get 2 other people to fill out this form as well. The goal is to collect 3 personality and well-being ratings for every individual.
+- Please fill out the second form, on individual demographics: https://forms.gle/AiMHYf9Pi5mZMXyr9
 This form only needs to be filled out once for each animal - we don't need multiple raters for the same individuals in this case.
 
 ## FAQs
@@ -36,7 +36,7 @@ A primary goal of this project is linkage, most immediately to data from MP2 and
 
 ### Do the same people need to rate all the individuals in our group?
 
-No – each primate just needs to be rated by people who know them, it doesn’t matter who else those people do or do not rate.
+No, each primate just needs to be rated by people who know them, it doesn’t matter who else those people do or do not rate.
 
 ### Who should I ask to fill in the forms?
 
