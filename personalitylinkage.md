@@ -1,6 +1,6 @@
 ---
 layout: page_sidebar
-title: "ManyPrimates personality, well-being, demographics, and data linkage
+title: "ManyPrimates personality, well-being, demographics, and data linkage"
 permalink: /mpp/
 image: assets/images/pic11.jpg
 ---
