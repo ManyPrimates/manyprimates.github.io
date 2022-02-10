@@ -1,5 +1,5 @@
 ---
-layout: page_sidebar
+layout: page
 title: "ManyPrimates personality, well-being, demographics, and data linkage"
 permalink: /mpp/
 image: assets/images/pic20.jpg
