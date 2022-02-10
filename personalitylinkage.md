@@ -24,8 +24,8 @@ We are looking for researchers to contribute data for primates involved in ManyP
 ## What we need from you:
 
 - For each individual you work with, please fill out this [form on personality and well-being](https://forms.gle/4c6LL4rmuUN8AJ2R9).
-- The form will ask for information on your primates' personalities and well-being. The form can be submitted multiple times, and you should submit one for each individual primate.
-- Get 2 other people to fill out this form as well. The goal is to collect 3 personality and well-being ratings for every individual.
+The form will ask for information on your primates' personalities and well-being. The form can be submitted multiple times, and you should submit one for each individual primate.
+- Get *2 other people* to fill out this form as well. *The goal is to collect at least 3 personality and well-being ratings for every individual.*
 - Please fill out this second [form on individual demographics](https://forms.gle/AiMHYf9Pi5mZMXyr9).
 This form only needs to be filled out once for each animal - we don't need multiple raters for the same individuals in this case.
 
@@ -34,6 +34,10 @@ This form only needs to be filled out once for each animal - we don't need multi
 ### When do you need to receive the forms by?
 
 A primary goal of this project is linkage, most immediately to data from [MP2](/mp2) and [MP3](/mp3). Ideally we need the forms by the end of data collection for MP2. In the future, to maintain the linked MP database, we may issue further calls.
+
+### Which individual primates should we submit ratings for?
+
+Although our emphasis is on rating individuals that have been or will be involved in ManyPrimates experiments, this is not a firm requirement. If you have an individual that does not like to participate, this does not mean you should not submit ratings for them. Leaving these individuals out will introduce bias, so if you are able, please rate non-participants as well.
 
 ### Do the same people need to rate all the individuals in our group?
 
@@ -62,10 +66,6 @@ We have many other language versions available (though they may need a bit of wo
 ### I think personality and/or well-being ratings already exist for my primates. Do I need to rate them again?
 
 Possibly no, we may be able to use your existing data. If you think or know that some of your primates were rated in the past, get in touch and we'll facilitate bringing those ratings into the project.
-
-### Which individual primates should we submit ratings for?
-
-Although our emphasis is on rating individuals that have been or will be involved in ManyPrimates experiments, this is not a firm requirement. If you have an individual that does not like to participate, this does not mean you should not submit ratings for them. Leaving these individuals out will introduce bias, so if you are able, please rate non-participants as well.
 
 ### What about ethical approval?
 

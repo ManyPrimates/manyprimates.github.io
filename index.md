@@ -112,5 +112,14 @@ layout: default
 				<li><a href="{{ 'mp3' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
+		<article>
+			<a href="{{ 'mpp' | absolute_url }}" class="image"><img src="assets/images/pic19.jpg" alt="" /></a>
+			<h3>ManyPrimates personality, well-being, and demographics data linkage</h3>
+			<p>For this project, we will gather data on individual differences, both behavioral, cognitive, and demographic, in part to facilitate linking multiple ManyPrimates datasets.</p>
+			<p><em><strong>Status</strong>: Data collection</em></p>
+			<ul class="actions">
+				<li><a href="{{ 'mpp' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
 	</div>
 </section>
