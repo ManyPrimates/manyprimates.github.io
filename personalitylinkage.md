@@ -2,7 +2,8 @@
 layout: page_sidebar
 title: "ManyPrimates personality, well-being, demographics, and data linkage"
 permalink: /mpp/
-image: assets/images/pic11.jpg
+image: assets/images/pic20.jpg
+image_description: "Red-faced spider monkey, image cropped; photo credit: Victor Silvares"
 ---
 
 ## Why link datasets?
@@ -72,9 +73,11 @@ As with other MP projects, if you need ethical approval you'll need to seek it f
 
 ### I would like more information or have a question not answered here
 
-If you have any questions at all, please email [{{ site.email }}](mailto:{{ site.email }}) and someone from the team will be in touch shortly. If you are curious about the work that has been done with primate individual differences, I have included some links at the end of this message - these publications are a good place to start.
+If you have any questions at all, please email [{{ site.email }}](mailto:{{ site.email }}) and someone from the team will be in touch shortly. 
 
 ## Future plans
+
+In addition to linking these data into future ManyPrimates projects, we plan to compose a personality and well-being specific ManyPrimates paper. More information on this will be forthcoming, once we have a better idea of what data we will have.
 
 Thank you for being one of **ManyPrimates**! 
 
