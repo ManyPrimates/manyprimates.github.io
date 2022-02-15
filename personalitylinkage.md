@@ -6,6 +6,12 @@ image: assets/images/pic20.jpg
 image_description: "Red-faced spider monkey, image cropped; photo credit: Victor Silvares"
 ---
 
+
+## What are we doing?
+
+We are collecting demographic, personality, and well-being data and then linking these datasets to each other and data from other ManyPrimates studies.
+
+
 ## Why link datasets?
 
 As a platform that promotes large scale collaboration, ManyPrimates want to foster continuity in our community. By linking ManyPrimates datasets across studies, and incorporating behavioral as well as administrative demographic data, ManyPrimates can further enrich and broaden our phylogenetic understanding of the primate mind.
