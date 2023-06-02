@@ -38,7 +38,7 @@ image: assets/images/pic15.jpg
 
 ## Upcoming and Past Presentations
 
-**Apr, 2023**: Josep Call, Shona Duguid, and Drew Altschul presented a talk at the [Scottish Primate Research Group annual meeting]!
+**Apr, 2023**: Josep Call, Shona Duguid, and Drew Altschul presented a talk at the Scottish Primate Research Group annual meeting!
 
 **Apr, 2023**: Drew Altschul represented ManyPrimates at the International Network for the Science of Team Science seminar
 
