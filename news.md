@@ -8,6 +8,8 @@ image: assets/images/pic15.jpg
 ## General News
 
 
+**Nov 2022**: The [ManyPrimates 1](/mp1) paper "The Evolution of Primate Short-Term Memory" has been published in Animal Behavior and Cognition. Find the open access [paper here.](https://www.animalbehaviorandcognition.org/article.php?id=1334)
+
 **Dec 2021**: We are now collecting data for [ManyPrimates 2](/mp2)!
 
 **Dec 2021**: We submitted our [ManyPrimates 1](/mp1) paper (the follow-up from our [pilot study](/pilot)) for publication! Now with many more primates! Find the [preprint here.](https://psyarxiv.com/5etnf)
@@ -35,6 +37,16 @@ image: assets/images/pic15.jpg
 ***
 
 ## Upcoming and Past Presentations
+
+**Apr, 2023**: Josep Call, Shona Duguid, and Drew Altschul presented a talk at the [Scottish Primate Research Group annual meeting]!
+
+**Apr, 2023**: Drew Altschul represented ManyPrimates at the International Network for the Science of Team Science seminar
+
+**Apr, 2023**: Darby Proctor, Michael Beran and Derry Taylor presented a talk at the [Annual International Conference on Comparative Cognition](https://drive.google.com/file/d/1JVpEJRXHCePEdTkAonTPM_buu2kIFUKx/view) in Melbourne, USA!
+
+**Oct, 2022**: Together with ManyBabies and the Psychological Science Accelerator, ManyPrimates organized the first [Big Team Science Conference](https://bigteamscienceconference.github.io)!
+
+**Oct, 2022**: Manuel Bohn presented a talk at the [Big Team Science Conference](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit)!
 
 **Sep, 2021**: Drew Altschul represented ManyPrimates at the [‘Lessons from the “Big Team Science” movement panel’ at Metascience 2021](https://metascience2021.org/events/lessons-from-the-big-team-science-movement/)!
 
