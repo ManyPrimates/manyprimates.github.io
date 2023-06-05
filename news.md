@@ -46,7 +46,11 @@ image: assets/images/pic15.jpg
 
 **Oct, 2022**: Together with ManyBabies and the Psychological Science Accelerator, ManyPrimates organized the first [Big Team Science Conference](https://bigteamscienceconference.github.io)!
 
-**Oct, 2022**: Manuel Bohn presented a talk at the [Big Team Science Conference](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit)!
+**Oct, 2022**: Manuel Bohn, Shona Duguid, and Drew Altschul presented talks at the [Big Team Science Conference](https://docs.google.com/document/d/17m6t7or53uvFErIW_WHvegwlwV2Cq_rvG5ny-4cBkpM/edit)!
+
+**Oct, 2022**: ManyPrimates organized a hackathon "Developing opportunities for cross-network collaboration" with other [ManyManys](https://manymanys.github.io/) collaborators! 
+ 
+**Oct, 2021**: Drew Altschul represented ManyPrimates at the Psychological Science Accelerator conference!
 
 **Sep, 2021**: Drew Altschul represented ManyPrimates at the [‘Lessons from the “Big Team Science” movement panel’ at Metascience 2021](https://metascience2021.org/events/lessons-from-the-big-team-science-movement/)!
 
