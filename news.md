@@ -38,6 +38,8 @@ image: assets/images/pic15.jpg
 
 ## Upcoming and Past Presentations
 
+**May, 2023**: Nicolás Alessandroni presented a [talk](https://youtu.be/Yyq45VIaMzo) on the broader [ManyManys collaboratory](https://manymanys.github.io/), which ManyPrimates is part of, at MetaScience 2023!
+
 **Apr, 2023**: Josep Call, Shona Duguid, and Drew Altschul presented a talk at the Scottish Primate Research Group annual meeting!
 
 **Apr, 2023**: Drew Altschul represented ManyPrimates at the International Network for the Science of Team Science seminar
