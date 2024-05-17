@@ -7,7 +7,7 @@ image: assets/images/pic15.jpg
 
 ## General News
 
-**Dec 2021**: We are now collecting data for [ManyPrimates 3](/mp3)!
+**May 2024**: We are now collecting data for [ManyPrimates 3](/mp3)!
 
 **Nov 2022**: The [ManyPrimates 1](/mp1) paper "The Evolution of Primate Short-Term Memory" has been published in Animal Behavior and Cognition. Find the open access [paper here.](https://www.animalbehaviorandcognition.org/article.php?id=1334)
 
