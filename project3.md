@@ -90,12 +90,12 @@ In all cases, the first step is to contact the [ManyPrimates 3 General Coordinat
 ## Contact
 
 **MP3 General Coordinator**
-mp3_coordinator@eva.mpg.de
+[mp3_coordinator@eva.mpg.de](mailto:mp3_coordinator@eva.mpg.de)
 
 **MP3 Data Integrity Oversight**
-manyprimates@gmail.com
+[manyprimates@gmail.com](mailto:manyprimates@gmail.com)
 
 **ManyPrimates Ethics Oversight**
-manyprimatesethics@gmail.com
+[manyprimatesethics@gmail.com](mailto:manyprimatesethics@gmail.com)
 
 
