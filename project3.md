@@ -93,6 +93,7 @@ In all cases, the first step is to contact the [ManyPrimates 3 General Coordinat
 mp3_coordinator@eva.mpg.de
 
 **MP3 Data Integrity Oversight**
+manyprimates@gmail.com
 
 **ManyPrimates Ethics Oversight**
 manyprimatesethics@gmail.com
