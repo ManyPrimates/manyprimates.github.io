@@ -90,7 +90,7 @@ In all cases, the first step is to contact the [ManyPrimates 3 General Coordinat
 ## Contact
 
 **MP3 General Coordinator**
-[mp3_coordinator@eva.mpg.de](mailto:mp3_coordinator@eva.mpg.de)
+[mp3_coordination@eva.mpg.de](mailto:mp3_coordination@eva.mpg.de)
 
 Matthias Allritz
 
