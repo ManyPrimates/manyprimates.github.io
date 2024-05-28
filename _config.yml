@@ -1,4 +1,4 @@
-# Site settings
+a# Site settings
 title: ManyPrimates
 subtitle: 
 email: manyprimates@gmail.com
@@ -18,7 +18,7 @@ github_url: https://github.com/ManyPrimates
 slack_url: https://join.slack.com/t/manyprimates/shared_invite/zt-5jzcn4xz-cdzlToDOl6m4P9ewrp22vA
 twitter_url: https://twitter.com/ManyPrimates
 osf_url: https://osf.io/tr6q3/
-instagram_url: instgram.com/manyprimates
+instagram_url: https://instagram.com/manyprimates
 bluesky_url: https://bsky.app/profile/did:plc:nuhmja746x4qtof2npwr2rzy
 
 # Build settings
