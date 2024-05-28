@@ -91,11 +91,20 @@ In all cases, the first step is to contact the [ManyPrimates 3 General Coordinat
 
 **MP3 General Coordinator**
 [mp3_coordinator@eva.mpg.de](mailto:mp3_coordinator@eva.mpg.de)
+Matthias Allritz
 
 **MP3 Data Integrity Oversight**
 [manyprimates@gmail.com](mailto:manyprimates@gmail.com)
+Manuel Bohn
 
-**ManyPrimates Ethics Oversight**
+**ManyPrimates Ethics Oversight** 
 [manyprimatesethics@gmail.com](mailto:manyprimatesethics@gmail.com)
+Lauren Robinson
+
+**ManyPrimates Communication Officers**
+[manyprimatescommunication@gmail.com](mailto:manyprimatescommunication@gmail.com)
+Carla Pascual-Guàrdia
+Emma McEwen
+Parvathi Vijay
 
 
