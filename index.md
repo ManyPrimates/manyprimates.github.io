@@ -100,6 +100,7 @@ layout: default
 			<a href="{{ 'review' | absolute_url }}" class="image"><img src="assets/images/pic10.jpg" alt="" /></a>
 			<h3>Review of Primate Cognition Research</h3>
 			<p>We conducted a systematic review of primate cognition research published between 2014 and 2019 to quantify sample sizes and identify sampling biases. Based on this survey we outline why many research questions can only be addressed through large-scale collaboration.</p>
+			<p><em><strong>Status</strong>: Completed (see publications) </em></p>
 			<ul class="actions">
 				<li><a href="{{ 'review' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
@@ -109,6 +110,7 @@ layout: default
 			<h3>Pilot</h3>
 			<p>As a proof of concept, this study was a first step towards building an infrastructure that facilitates large-scale collaboration in primate cognition research. In this pilot study, we conducted a short-term memory task with 176 primates from 12 species and 11 sites. </p>
 			<ul class="actions">
+			<p><em><strong>Status</strong>: Completed (see publications) </em></p>
 				<li><a href="{{ 'pilot' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
