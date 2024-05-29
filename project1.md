@@ -7,7 +7,7 @@ image: assets/images/MP pilot_mosaic.jpg
 
 ## The evolution of short-term memory
 
-<strong>This paper has now been submitted for publication! Find the <a href="https://psyarxiv.com/5etnf">preprint here.</a></strong>
+<strong>This <a href="https://www.animalbehaviorandcognition.org/uploads/journals/50/6%20ManyPrimates_ABC_9(4).pdf">paper</a> has now been published in *Animal Behavior and Cognition*!</strong>
 
 The first ManyPrimates project is a continuation of our [pilot study](/pilot). We collected data from 400+ primates from 40+ species and almost 30 sites in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.
 
