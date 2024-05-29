@@ -69,6 +69,33 @@ layout: default
 		<h2>Projects</h2>
 	</header>
 	<div class="posts">
+				<article>
+			<a href="{{ 'mp3' | absolute_url }}" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<h3>ManyPrimates 3: Inference by Exclusion</h3>
+			<p>For this project, we will assess primates' ability to make choices by excluding alternative options.</p>
+			<p><em><strong>Status</strong>: Data collection </em></p>
+			<ul class="actions">
+				<li><a href="{{ 'mp3' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
+		<article>
+			<a href="{{ 'mpp' | absolute_url }}" class="image"><img src="assets/images/pic19.jpg" alt="" /></a>
+			<h3>ManyPrimates personality, well-being, and demographics data linkage</h3>
+			<p>For this project, we will gather data on individual differences, both behavioral, cognitive, and demographic, in part to facilitate linking multiple ManyPrimates datasets.</p>
+			<p><em><strong>Status</strong>: Data collection</em></p>
+			<ul class="actions">
+				<li><a href="{{ 'mpp' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
+		<article>
+			<a href="{{ 'mp2' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<h3>ManyPrimates 2: Delay of Gratification</h3>
+			<p>For this project, we will assess primates' ability to resist the temptation of an immediate reward in order to receive a larger or better reward later on.</p>
+			<p><em><strong>Status</strong>: Data collection completed </em></p>
+			<ul class="actions">
+				<li><a href="{{ 'mp2' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
 		<article>
 			<a href="{{ 'review' | absolute_url }}" class="image"><img src="assets/images/pic10.jpg" alt="" /></a>
 			<h3>Review of Primate Cognition Research</h3>
@@ -92,33 +119,6 @@ layout: default
 			<p><em><strong>Status</strong>: Completed (see publications)</em></p>
 			<ul class="actions">
 				<li><a href="{{ 'mp1' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="{{ 'mp2' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>ManyPrimates 2: Delay of Gratification</h3>
-			<p>For this project, we will assess primates' ability to resist the temptation of an immediate reward in order to receive a larger or better reward later on.</p>
-			<p><em><strong>Status</strong>: Data collection</em></p>
-			<ul class="actions">
-				<li><a href="{{ 'mp2' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="{{ 'mp3' | absolute_url }}" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
-			<h3>ManyPrimates 3: Inference by Exclusion</h3>
-			<p>For this project, we will assess primates' ability to make choices by excluding alternative options.</p>
-			<p><em><strong>Status</strong>: Planning</em></p>
-			<ul class="actions">
-				<li><a href="{{ 'mp3' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="{{ 'mpp' | absolute_url }}" class="image"><img src="assets/images/pic19.jpg" alt="" /></a>
-			<h3>ManyPrimates personality, well-being, and demographics data linkage</h3>
-			<p>For this project, we will gather data on individual differences, both behavioral, cognitive, and demographic, in part to facilitate linking multiple ManyPrimates datasets.</p>
-			<p><em><strong>Status</strong>: Data collection</em></p>
-			<ul class="actions">
-				<li><a href="{{ 'mpp' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
 	</div>
