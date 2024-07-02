@@ -11,7 +11,7 @@ ManyPrimates is a platform for promoting large scale collaboration and open scie
 
 <div class="box">
     <p><strong>Data collection for this project is now complete!</strong><br/>
-   <strong>Get in touch if would like to get involved in data processing or writing up!</strong><br/>
+   <strong>Get in touch if would like to get involved in data processing or writing up</strong><br/>
     </p>
 </div>
 
@@ -25,8 +25,6 @@ If you haven’t already, join our [Slack workspace]({{ site.slack_url }}). Slac
 
 We hope you also contribute to the analysis and writing and you may do so even if you have not contributed data to this project. If you want to be part of the analysis team or want to contribute to writing, please get in touch with the coordination team.
 Here are some additional resources for the study:
-
-Here are some additional resources for the study: 
 
 - [Pre-registration for procedure](https://osf.io/qd5e7)
 - Pre-registration for analysis (to come)
