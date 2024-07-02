@@ -10,7 +10,7 @@ image: assets/images/pic11.jpg
 ManyPrimates is a platform for promoting large scale collaboration and open science practices in primate cognition research. In this project (MP2), we will assess primates’ ability to resist the temptation of an immediate reward in order to receive a larger or better reward later on.
 
 <div class="box">
-    <p><strong>Data collection for this project is now complete!<br/>
+    <p><strong>Data collection for this project is now complete!</strong><br/>
    <strong>Get in touch if would like to get involved in data processing or writing up!</strong><br/>
     </p>
 </div>
