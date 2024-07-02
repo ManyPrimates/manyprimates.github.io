@@ -99,10 +99,16 @@ Matthias Allritz
 
 Manuel Bohn
 
+**MP3 Data Collection Oversight Team**
+
+Carla Pascual-Guàrdia
+
+Olivia Reilly
+
 **ManyPrimates Ethics Oversight** 
 [manyprimatesethics@gmail.com](mailto:manyprimatesethics@gmail.com)
 
-Lauren Robinson
+Dr. Lauren Robinson
 
 **ManyPrimates Communication Officers**
 [manyprimatescommunication@gmail.com](mailto:manyprimatescommunication@gmail.com)
