@@ -105,7 +105,7 @@ Carla Pascual-Guàrdia
 
 Olivia Reilly
 
-Louise Mackie
+Marie Hirel
 
 **ManyPrimates Ethics Oversight** 
 [manyprimatesethics@gmail.com](mailto:manyprimatesethics@gmail.com)
