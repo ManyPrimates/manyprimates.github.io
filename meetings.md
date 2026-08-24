@@ -2,7 +2,7 @@
 
 layout: page
 title: "ManyPrimates Meetings"
-permalink: /meetings
+permalink: /meetings/
 image: assets/images/pic17.jpg
 ---
 
