@@ -7,6 +7,10 @@ image: assets/images/pic15.jpg
 
 ## General News
 
+**December 2026**: ManyPrimates will hold its first in-person [meeting](/meetings) in St Andrews, Scotland.
+
+**December 2026**: [ManyPrimates 3A](/mp3) data collection closes at the end of this year!
+
 **May 2024**: We are now collecting data for [ManyPrimates 3](/mp3)!
 
 **Nov 2022**: The [ManyPrimates 1](/mp1) paper "The Evolution of Primate Short-Term Memory" has been published in Animal Behavior and Cognition. Find the open access [paper here.](https://www.animalbehaviorandcognition.org/article.php?id=1334)
