@@ -19,8 +19,8 @@ layout: default
 			<span class="icon fa-users"></span>
 			<div class="content">
 				<h3><a href="{{ 'meetings' | absolute_url }}">Meetings</a></h3>
-				<p>We are planning to hold the first ManyPrimates symposium sometime after the pandemic at the MPI for Evolutionary Anthropology in Leipzig, Germany.</p>
-				<!-- <p>Join us for the first ManyPrimates symposium, taking place from July 8th to July 10th 2020 at the MPI for Evolutionary Anthropology in Leipzig, Germany.</p> -->
+				<p>We are planning to hold the first ManyPrimates in-person summit in December of 2026 in St Andrews, Scotland.</p>
+				<!-- <p>The first ManyPrimates in-person meeting will take place on December 7th, 2026 at the University of St Andrews, St Andrews, Scotland.</p> -->
 			</div>
 		</article>
 		<article>
